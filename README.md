@@ -1,3 +1,4 @@
+# Timezone Website
 ## TODO
 - Change the colors in `time-zone-map-app/src/data/timezone_colors.json` to be unique.
 - Add a UI with like headers and stuff.
