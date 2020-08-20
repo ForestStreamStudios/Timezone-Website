@@ -47,7 +47,7 @@ const MapChart = ({ setTooltipContent, markers }) => {
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
-      height={window.innerHeight}
+      height={window.innerHeight/2}
       projectionConfig={{
         scale: 120,
         center: [0, -129]
