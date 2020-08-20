@@ -47,7 +47,7 @@ const MapChart = ({ setTooltipContent, markers }) => {
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
-      height={window.innerHeight}
+      height={window.innerHeight/2}
       projectionConfig={{
         scale: 120,
         center: [0, -129]
@@ -95,7 +95,7 @@ const MapChart = ({ setTooltipContent, markers }) => {
                   const timezoneInfo = getTimezone(tzid)
                   if (timezoneInfo) {
                     const { utcOffsetStr } = timezoneInfo;
-                    setTooltipContent(`${tzid} - ${utcOffsetStr}`);
+                    setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
                   } else {
                     setTooltipContent(`${tzid} - No GMT Data`);
 
