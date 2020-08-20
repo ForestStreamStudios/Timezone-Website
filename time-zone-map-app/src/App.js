@@ -3,8 +3,11 @@ import AppStyle from './App.css';
 import MapChart from "./core/map/MapChart";
 import ReactTooltip from "react-tooltip";
 import Header from "./core/header"
+import Sidebar from "./core/Sidebar"
 
 import dropdownOptions from "./data/dropdown_options.json"
+import tz_markers from "./data/locations.json"
+import tz_count from "./data/timezone_count.json"
 
 function updateFilter(value) {
   console.log("eeeeee", value)
@@ -29,15 +32,21 @@ const markers = [
   { markerOffset: -15, name: "Lima", coordinates: [-77.0428, -12.0464] }
 ];
 
+
 function App() {
   const [content, setContent] = useState("");
   return (
     <div className={AppStyle.App}>
       <Header dropdownOptions={dropdownOptions} updateFilter={updateFilter} />
       <div className="map-shell">
-
-        <MapChart setTooltipContent={setContent} markers={markers} />
-        <ReactTooltip>{content}</ReactTooltip>
+        <div className="map-frame">
+          <MapChart setTooltipContent={setContent}
+            markers={tz_markers}
+            counts={tz_count}
+          />
+          <ReactTooltip>{content}</ReactTooltip>
+        </div>
+        <Sidebar />
       </div>
     </div>
   );
