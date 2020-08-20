@@ -1,6 +1,6 @@
 # Timezone Website
 ## TODO
-- Change the colors in `time-zone-map-app/src/data/timezone_colors.json` to be unique.
+- Change the colors in `time-zone-map-app/src/data/timezone_colors.json` to be a better set of 5, they are now repeating stripes.
 - Add a UI with like headers and stuff.
 
 ## Instructions
