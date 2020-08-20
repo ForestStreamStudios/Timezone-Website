@@ -95,7 +95,7 @@ const MapChart = ({ setTooltipContent, markers }) => {
                   const timezoneInfo = getTimezone(tzid)
                   if (timezoneInfo) {
                     const { utcOffsetStr } = timezoneInfo;
-                    setTooltipContent(`${tzid} - ${utcOffsetStr}`);
+                    setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
                   } else {
                     setTooltipContent(`${tzid} - No GMT Data`);
 
