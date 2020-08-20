@@ -43,85 +43,91 @@ const rounded = num => {
 };
 
 
-const MapChart = ({ setTooltipContent, markers }) => {
+const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
-      height={window.innerHeight/2}
+      height={window.innerHeight / 1}
       projectionConfig={{
         scale: 120,
         center: [0, -129]
       }}>
 
-      {/* <ZoomableGroup zoom={1}> */}
-      <Graticule stroke="#EAEAEC" />
-      <Geographies geography={topoJSON}>
-        {({ geographies }) =>
-          geographies.map(geo => {
-            let geoColor = "#D6D6D6"
-            const tzid = geo.properties["tzid"]
-            const timezoneInfo = getTimezone(tzid)
+      <ZoomableGroup zoom={1}>
+        <Graticule stroke="#EAEAEC" />
+        <Geographies geography={topoJSON}>
+          {({ geographies }) =>
+            geographies.map(geo => {
+              let geoColor = "#D6D6D6"
+              const tzid = geo.properties["tzid"]
+              const timezoneInfo = getTimezone(tzid)
 
-            if (timezoneInfo) {
-              let utcStr = timezoneInfo.utcOffsetStr;
-              if (timezoneColors[utcStr]) {
-                geoColor = timezoneColors[utcStr]
+              if (timezoneInfo) {
+                let utcStr = timezoneInfo.utcOffsetStr;
+                if (timezoneColors[utcStr]) {
+                  geoColor = timezoneColors[utcStr]
+                }
               }
-            }
 
-            let hoverColor = Color(geoColor).darken(0.2)
+              let hoverColor = Color(geoColor).darken(0.2)
 
-            return (
-              <Geography
-                key={geo.rsmKey}
-                geography={geo}
-                style={{
-                  default: {
-                    fill: geoColor,
-                    outline: "none"
-                  },
-                  hover: {
-                    fill: hoverColor,
-                    outline: "none"
-                  },
-                  pressed: {
-                    fill: "#E42",
-                    outline: "none"
-                  }
-                }}
-                onMouseEnter={(e) => {
-                  console.log(geo.properties)
-                  const tzid = geo.properties["tzid"]
-                  const timezoneInfo = getTimezone(tzid)
-                  if (timezoneInfo) {
-                    const { utcOffsetStr } = timezoneInfo;
-                    setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
-                  } else {
-                    setTooltipContent(`${tzid} - No GMT Data`);
+              return (
+                <Geography
+                  key={geo.rsmKey}
+                  geography={geo}
+                  style={{
+                    default: {
+                      fill: geoColor,
+                      outline: "none"
+                    },
+                    hover: {
+                      fill: hoverColor,
+                      outline: "none"
+                    },
+                    pressed: {
+                      fill: "#E42",
+                      outline: "none"
+                    }
+                  }}
+                  onMouseEnter={(e) => {
+                    console.log(geo.properties)
+                    const tzid = geo.properties["tzid"]
+                    const timezoneInfo = getTimezone(tzid)
+                    if (timezoneInfo) {
+                      const { utcOffsetStr } = timezoneInfo;
+                      setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
+                    } else {
+                      setTooltipContent(`${tzid} - No GMT Data`);
 
-                  }
-                }}
-                onMouseLeave={() => {
-                  setTooltipContent("");
-                }}
-              />
-            )
-          })
-        }
-      </Geographies>
-      {markers.map(({ name, coordinates, markerOffset }) => (
-        <Marker key={name} coordinates={coordinates}>
-          <circle r={1} fill="#F00" stroke="#fff" strokeWidth={0.3} />
-          <text
-            textAnchor="middle"
-            y={markerOffset * 0}
-            style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "3px" }}
-          >
-            {name}
-          </text>
-        </Marker>
-      ))}
-      {/* </ZoomableGroup> */}
+                    }
+                  }}
+                  onMouseLeave={() => {
+                    setTooltipContent("");
+                  }}
+                />
+              )
+            })
+          }
+        </Geographies>
+        {markers.map(({ lat, long, tz_name, utc_offset }, key) => {
+          let matched_tz_count = counts[utc_offset] || 0
+
+          let size = markerScale * matched_tz_count * 0.3
+          return (
+
+            <Marker key={key} coordinates={[long, lat]}>
+              <circle r={size} fill="#F00" stroke="#fff" strokeWidth={0.3} />
+              <text
+                textAnchor="middle"
+                y={0 * 0}
+                style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "3px" }}
+              >
+                {`${matched_tz_count}`}
+              </text>
+            </Marker>
+          )
+        })}
+      </ZoomableGroup>
     </ComposableMap>
   );
 };
