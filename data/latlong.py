@@ -28,7 +28,9 @@ for tr in tr_list:
         tz_name = td_ResultSet[2].find("a").decode_contents().strip()
         utc_offset = td_ResultSet[5].find("a").decode_contents().strip()
 
-        i = 0
+        if utc_offset[0] == "−":
+            utc_offset[0] = "-"
+
         ll = []
 
         for k, g in itertools.groupby(
