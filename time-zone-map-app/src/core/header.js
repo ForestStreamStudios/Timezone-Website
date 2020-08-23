@@ -4,7 +4,7 @@ function Header({ dropdownOptions, updateFilter }) {
   const [option, setOption] = useState(dropdownOptions[0].text)
   return (
     <header className="Header">
-      <div>Time Zone App</div>
+      <div>FSS Time Zone App</div>
       <div>{option}</div>
       <select onChange={(e) => {
         updateFilter(e.target.value)
