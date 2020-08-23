@@ -68,66 +68,61 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
                   geoColor = timezoneColors[utcStr]
                 }
               }
+            }
 
-              let hoverColor = Color(geoColor).darken(0.2)
+            let hoverColor = Color(geoColor).darken(0.2)
 
-              return (
-                <Geography
-                  key={geo.rsmKey}
-                  geography={geo}
-                  style={{
-                    default: {
-                      fill: geoColor,
-                      outline: "none"
-                    },
-                    hover: {
-                      fill: hoverColor,
-                      outline: "none"
-                    },
-                    pressed: {
-                      fill: "#E42",
-                      outline: "none"
-                    }
-                  }}
-                  onMouseEnter={(e) => {
-                    console.log(geo.properties)
-                    const tzid = geo.properties["tzid"]
-                    const timezoneInfo = getTimezone(tzid)
-                    if (timezoneInfo) {
-                      const { utcOffsetStr } = timezoneInfo;
-                      setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
-                    } else {
-                      setTooltipContent(`${tzid} - No GMT Data`);
+            return (
+              <Geography
+                key={geo.rsmKey}
+                geography={geo}
+                style={{
+                  default: {
+                    fill: geoColor,
+                    outline: "none"
+                  },
+                  hover: {
+                    fill: hoverColor,
+                    outline: "none"
+                  },
+                  pressed: {
+                    fill: "#000000",
+                    outline: "none"
+                  }
+                }}
+                onMouseEnter={(e) => {
+                  console.log(geo.properties)
+                  const tzid = geo.properties["tzid"]
+                  const timezoneInfo = getTimezone(tzid)
+                  if (timezoneInfo) {
+                    const { utcOffsetStr } = timezoneInfo;
+                    setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
+                  } else {
+                    setTooltipContent(`${tzid} - No GMT Data`);
 
-                    }
-                  }}
-                  onMouseLeave={() => {
-                    setTooltipContent("");
-                  }}
-                />
-              )
-            })
-          }
-        </Geographies>
-        {markers.map(({ lat, long, tz_name, utc_offset }, key) => {
-          let matched_tz_count = counts[utc_offset] || 0
-
-          let size = markerScale * matched_tz_count * 0.3
-          return (
-
-            <Marker key={key} coordinates={[long, lat]}>
-              <circle r={size} fill="#F00" stroke="#fff" strokeWidth={0.3} />
-              <text
-                textAnchor="middle"
-                y={0 * 0}
-                style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "3px" }}
-              >
-                {`${matched_tz_count}`}
-              </text>
-            </Marker>
-          )
-        })}
-      </ZoomableGroup>
+                  }
+                }}
+                onMouseLeave={() => {
+                  setTooltipContent("");
+                }}
+              />
+            )
+          })
+        }
+      </Geographies>
+      {markers.map(({ name, coordinates, markerOffset }) => (
+        <Marker key={name} coordinates={coordinates}>
+          <circle r={1} fill="#F00" stroke="#fff" strokeWidth={0.3} />
+          <text
+            textAnchor="middle"
+            y={markerOffset * 0}
+            style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "3px" }}
+          >
+            {name}
+          </text>
+        </Marker>
+      ))}
+      {/* </ZoomableGroup> */}
     </ComposableMap>
   );
 };
