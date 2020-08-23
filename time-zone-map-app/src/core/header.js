@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function Header({ dropdownOptions, updateFilter }) {
-  const [option, setOption] = useState(dropdownOptions[0].value)
+  const [option, setOption] = useState(dropdownOptions[0].text)
   return (
     <header className="Header">
       <div>Time Zone App</div>
@@ -12,7 +12,7 @@ function Header({ dropdownOptions, updateFilter }) {
       }}>
         {
           dropdownOptions.map((e, key) => {
-            return <option key={key} value={e.value}>{e.text}</option>;
+            return <option key={key} value={e.text}>{e.text}</option>;
           })
         }
       </select>
