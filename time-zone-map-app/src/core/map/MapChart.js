@@ -85,7 +85,7 @@ const MapChart = ({ setTooltipContent, markers }) => {
                     outline: "none"
                   },
                   pressed: {
-                    fill: "#E42",
+                    fill: "#000000",
                     outline: "none"
                   }
                 }}
