@@ -16,8 +16,6 @@ function Header({ dropdownOptions, updateFilter }) {
           })
         }
       </select>
-
-
     </header>
   );
 }

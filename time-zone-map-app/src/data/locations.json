@@ -1,2557 +1,2557 @@
 [
     {
-        "lat": 519,
-        "long": -402,
+        "lat": "5.317",
+        "long": "-4.033",
         "tz_name": "Africa/Abidjan",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 533,
-        "long": -13,
+        "lat": "5.550",
+        "long": "-0.217",
         "tz_name": "Africa/Accra",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 902,
-        "long": 3842,
+        "lat": "9.033",
+        "long": "38.700",
         "tz_name": "Africa/Addis_Ababa",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 3647,
-        "long": 303,
+        "lat": "36.783",
+        "long": "3.050",
         "tz_name": "Africa/Algiers",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 1520,
-        "long": 3853,
+        "lat": "15.333",
+        "long": "38.883",
         "tz_name": "Africa/Asmara",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 1239,
-        "long": -800,
+        "lat": "12.650",
+        "long": "-8.000",
         "tz_name": "Africa/Bamako",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 422,
-        "long": 1835,
+        "lat": "4.367",
+        "long": "18.583",
         "tz_name": "Africa/Bangui",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 1328,
-        "long": -1639,
+        "lat": "13.467",
+        "long": "-16.650",
         "tz_name": "Africa/Banjul",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 1151,
-        "long": -1535,
+        "lat": "11.850",
+        "long": "-15.583",
         "tz_name": "Africa/Bissau",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -1547,
-        "long": 3500,
+        "lat": "-15.783",
+        "long": "35.000",
         "tz_name": "Africa/Blantyre",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -416,
-        "long": 1517,
+        "lat": "-4.267",
+        "long": "15.283",
         "tz_name": "Africa/Brazzaville",
         "utc_offset": "+01:00"
     },
     {
-        "lat": -323,
-        "long": 2922,
+        "lat": "-3.383",
+        "long": "29.367",
         "tz_name": "Africa/Bujumbura",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 3003,
-        "long": 3115,
+        "lat": "30.050",
+        "long": "31.250",
         "tz_name": "Africa/Cairo",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 3339,
-        "long": -735,
+        "lat": "33.650",
+        "long": "-7.583",
         "tz_name": "Africa/Casablanca",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 3553,
-        "long": -519,
+        "lat": "35.883",
+        "long": "-5.317",
         "tz_name": "Africa/Ceuta",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 931,
-        "long": -1343,
+        "lat": "9.517",
+        "long": "-13.717",
         "tz_name": "Africa/Conakry",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 1440,
-        "long": -1726,
+        "lat": "14.667",
+        "long": "-17.433",
         "tz_name": "Africa/Dakar",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -648,
-        "long": 3917,
+        "lat": "-6.800",
+        "long": "39.283",
         "tz_name": "Africa/Dar_es_Salaam",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 1136,
-        "long": 4309,
+        "lat": "11.600",
+        "long": "43.150",
         "tz_name": "Africa/Djibouti",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 403,
-        "long": 942,
+        "lat": "4.050",
+        "long": "9.700",
         "tz_name": "Africa/Douala",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 2709,
-        "long": -1312,
+        "lat": "27.150",
+        "long": "-13.200",
         "tz_name": "Africa/El_Aaiun",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 830,
-        "long": -1315,
+        "lat": "8.500",
+        "long": "-13.250",
         "tz_name": "Africa/Freetown",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -2439,
-        "long": 2555,
+        "lat": "-24.650",
+        "long": "25.917",
         "tz_name": "Africa/Gaborone",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -1750,
-        "long": 3103,
+        "lat": "-17.833",
+        "long": "31.050",
         "tz_name": "Africa/Harare",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -2615,
-        "long": 2800,
+        "lat": "-26.250",
+        "long": "28.000",
         "tz_name": "Africa/Johannesburg",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 451,
-        "long": 3136,
+        "lat": "4.850",
+        "long": "31.600",
         "tz_name": "Africa/Juba",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 19,
-        "long": 3225,
+        "lat": "0.317",
+        "long": "32.417",
         "tz_name": "Africa/Kampala",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 1536,
-        "long": 3232,
+        "lat": "15.600",
+        "long": "32.533",
         "tz_name": "Africa/Khartoum",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -157,
-        "long": 3004,
+        "lat": "-1.950",
+        "long": "30.067",
         "tz_name": "Africa/Kigali",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -418,
-        "long": 1518,
+        "lat": "-4.300",
+        "long": "15.300",
         "tz_name": "Africa/Kinshasa",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 627,
-        "long": 324,
+        "lat": "6.450",
+        "long": "3.400",
         "tz_name": "Africa/Lagos",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 23,
-        "long": 927,
+        "lat": "0.383",
+        "long": "9.450",
         "tz_name": "Africa/Libreville",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 608,
-        "long": 113,
+        "lat": "6.133",
+        "long": "1.217",
         "tz_name": "Africa/Lome",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -848,
-        "long": 1314,
+        "lat": "-8.800",
+        "long": "13.233",
         "tz_name": "Africa/Luanda",
         "utc_offset": "+01:00"
     },
     {
-        "lat": -1140,
-        "long": 2728,
+        "lat": "-11.667",
+        "long": "27.467",
         "tz_name": "Africa/Lubumbashi",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -1525,
-        "long": 2817,
+        "lat": "-15.417",
+        "long": "28.283",
         "tz_name": "Africa/Lusaka",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 345,
-        "long": 847,
+        "lat": "3.750",
+        "long": "8.783",
         "tz_name": "Africa/Malabo",
         "utc_offset": "+01:00"
     },
     {
-        "lat": -2558,
-        "long": 3235,
+        "lat": "-25.967",
+        "long": "32.583",
         "tz_name": "Africa/Maputo",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -2928,
-        "long": 2730,
+        "lat": "-29.467",
+        "long": "27.500",
         "tz_name": "Africa/Maseru",
         "utc_offset": "+02:00"
     },
     {
-        "lat": -2618,
-        "long": 3106,
+        "lat": "-26.300",
+        "long": "31.100",
         "tz_name": "Africa/Mbabane",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 204,
-        "long": 4522,
+        "lat": "2.067",
+        "long": "45.367",
         "tz_name": "Africa/Mogadishu",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 618,
-        "long": -1047,
+        "lat": "6.300",
+        "long": "-10.783",
         "tz_name": "Africa/Monrovia",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -117,
-        "long": 3649,
+        "lat": "-1.283",
+        "long": "36.817",
         "tz_name": "Africa/Nairobi",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 1207,
-        "long": 1503,
+        "lat": "12.117",
+        "long": "15.050",
         "tz_name": "Africa/Ndjamena",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 1331,
-        "long": 207,
+        "lat": "13.517",
+        "long": "2.117",
         "tz_name": "Africa/Niamey",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 1806,
-        "long": -1557,
+        "lat": "18.100",
+        "long": "-15.950",
         "tz_name": "Africa/Nouakchott",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 1222,
-        "long": -131,
+        "lat": "12.367",
+        "long": "-1.517",
         "tz_name": "Africa/Ouagadougou",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 629,
-        "long": 237,
+        "lat": "6.483",
+        "long": "2.617",
         "tz_name": "Africa/Porto-Novo",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 20,
-        "long": 644,
+        "lat": "0.333",
+        "long": "6.733",
         "tz_name": "Africa/Sao_Tome",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 3254,
-        "long": 1311,
+        "lat": "32.900",
+        "long": "13.183",
         "tz_name": "Africa/Tripoli",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 3648,
-        "long": 1011,
+        "lat": "36.800",
+        "long": "10.183",
         "tz_name": "Africa/Tunis",
         "utc_offset": "+01:00"
     },
     {
-        "lat": -2234,
-        "long": 1706,
+        "lat": "-22.567",
+        "long": "17.100",
         "tz_name": "Africa/Windhoek",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 515248,
-        "long": -1763929,
+        "lat": "51.880",
+        "long": "-176.658",
         "tz_name": "America/Adak",
-        "utc_offset": "\u221210:00"
+        "utc_offset": "-10:00"
     },
     {
-        "lat": 611305,
-        "long": -1495401,
+        "lat": "61.218",
+        "long": "-149.900",
         "tz_name": "America/Anchorage",
-        "utc_offset": "\u221209:00"
+        "utc_offset": "-09:00"
     },
     {
-        "lat": 1812,
-        "long": -6304,
+        "lat": "18.200",
+        "long": "-63.067",
         "tz_name": "America/Anguilla",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1703,
-        "long": -6148,
+        "lat": "17.050",
+        "long": "-61.800",
         "tz_name": "America/Antigua",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -712,
-        "long": -4812,
+        "lat": "-7.200",
+        "long": "-48.200",
         "tz_name": "America/Araguaina",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -3436,
-        "long": -5827,
+        "lat": "-34.600",
+        "long": "-58.450",
         "tz_name": "America/Argentina/Buenos_Aires",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -2828,
-        "long": -6547,
+        "lat": "-28.467",
+        "long": "-65.783",
         "tz_name": "America/Argentina/Catamarca",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -3124,
-        "long": -6411,
+        "lat": "-31.400",
+        "long": "-64.183",
         "tz_name": "America/Argentina/Cordoba",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -2411,
-        "long": -6518,
+        "lat": "-24.183",
+        "long": "-65.300",
         "tz_name": "America/Argentina/Jujuy",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -2926,
-        "long": -6651,
+        "lat": "-29.433",
+        "long": "-66.850",
         "tz_name": "America/Argentina/La_Rioja",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -3253,
-        "long": -6849,
+        "lat": "-32.883",
+        "long": "-68.817",
         "tz_name": "America/Argentina/Mendoza",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -5138,
-        "long": -6913,
+        "lat": "-51.633",
+        "long": "-69.217",
         "tz_name": "America/Argentina/Rio_Gallegos",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -2447,
-        "long": -6525,
+        "lat": "-24.783",
+        "long": "-65.417",
         "tz_name": "America/Argentina/Salta",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -3132,
-        "long": -6831,
+        "lat": "-31.533",
+        "long": "-68.517",
         "tz_name": "America/Argentina/San_Juan",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -3319,
-        "long": -6621,
+        "lat": "-33.317",
+        "long": "-66.350",
         "tz_name": "America/Argentina/San_Luis",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -2649,
-        "long": -6513,
+        "lat": "-26.817",
+        "long": "-65.217",
         "tz_name": "America/Argentina/Tucuman",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -5448,
-        "long": -6818,
+        "lat": "-54.800",
+        "long": "-68.300",
         "tz_name": "America/Argentina/Ushuaia",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 1230,
-        "long": -6958,
+        "lat": "12.500",
+        "long": "-69.967",
         "tz_name": "America/Aruba",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -2516,
-        "long": -5740,
+        "lat": "-25.267",
+        "long": "-57.667",
         "tz_name": "America/Asuncion",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 484531,
-        "long": -913718,
+        "lat": "48.759",
+        "long": "-91.622",
         "tz_name": "America/Atikokan",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": -1259,
-        "long": -3831,
+        "lat": "-12.983",
+        "long": "-38.517",
         "tz_name": "America/Bahia",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 2048,
-        "long": -10515,
+        "lat": "20.800",
+        "long": "-105.250",
         "tz_name": "America/Bahia_Banderas",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 1306,
-        "long": -5937,
+        "lat": "13.100",
+        "long": "-59.617",
         "tz_name": "America/Barbados",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -127,
-        "long": -4829,
+        "lat": "-1.450",
+        "long": "-48.483",
         "tz_name": "America/Belem",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 1730,
-        "long": -8812,
+        "lat": "17.500",
+        "long": "-88.200",
         "tz_name": "America/Belize",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 5125,
-        "long": -5707,
+        "lat": "51.417",
+        "long": "-57.117",
         "tz_name": "America/Blanc-Sablon",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 249,
-        "long": -6040,
+        "lat": "2.817",
+        "long": "-60.667",
         "tz_name": "America/Boa_Vista",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 436,
-        "long": -7405,
+        "lat": "4.600",
+        "long": "-74.083",
         "tz_name": "America/Bogota",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 433649,
-        "long": -1161209,
+        "lat": "43.614",
+        "long": "-116.203",
         "tz_name": "America/Boise",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 690650,
-        "long": -1050310,
+        "lat": "69.114",
+        "long": "-105.053",
         "tz_name": "America/Cambridge_Bay",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": -2027,
-        "long": -5437,
+        "lat": "-20.450",
+        "long": "-54.617",
         "tz_name": "America/Campo_Grande",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 2105,
-        "long": -8646,
+        "lat": "21.083",
+        "long": "-86.767",
         "tz_name": "America/Cancun",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 1030,
-        "long": -6656,
+        "lat": "10.500",
+        "long": "-66.933",
         "tz_name": "America/Caracas",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 456,
-        "long": -5220,
+        "lat": "4.933",
+        "long": "-52.333",
         "tz_name": "America/Cayenne",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 1918,
-        "long": -8123,
+        "lat": "19.300",
+        "long": "-81.383",
         "tz_name": "America/Cayman",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 4151,
-        "long": -8739,
+        "lat": "41.850",
+        "long": "-87.650",
         "tz_name": "America/Chicago",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 2838,
-        "long": -10605,
+        "lat": "28.633",
+        "long": "-106.083",
         "tz_name": "America/Chihuahua",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 956,
-        "long": -8405,
+        "lat": "9.933",
+        "long": "-84.083",
         "tz_name": "America/Costa_Rica",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 4906,
-        "long": -11631,
+        "lat": "49.100",
+        "long": "-116.517",
         "tz_name": "America/Creston",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": -1535,
-        "long": -5605,
+        "lat": "-15.583",
+        "long": "-56.083",
         "tz_name": "America/Cuiaba",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1211,
-        "long": -6900,
+        "lat": "12.183",
+        "long": "-69.000",
         "tz_name": "America/Curacao",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 7646,
-        "long": -1840,
+        "lat": "76.767",
+        "long": "-18.667",
         "tz_name": "America/Danmarkshavn",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 6404,
-        "long": -13925,
+        "lat": "64.067",
+        "long": "-139.417",
         "tz_name": "America/Dawson",
-        "utc_offset": "\u221208:00"
+        "utc_offset": "-08:00"
     },
     {
-        "lat": 5946,
-        "long": -12014,
+        "lat": "59.767",
+        "long": "-120.233",
         "tz_name": "America/Dawson_Creek",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 394421,
-        "long": -1045903,
+        "lat": "39.739",
+        "long": "-104.984",
         "tz_name": "America/Denver",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 421953,
-        "long": -830245,
+        "lat": "42.331",
+        "long": "-83.046",
         "tz_name": "America/Detroit",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 1518,
-        "long": -6124,
+        "lat": "15.300",
+        "long": "-61.400",
         "tz_name": "America/Dominica",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 5333,
-        "long": -11328,
+        "lat": "53.550",
+        "long": "-113.467",
         "tz_name": "America/Edmonton",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": -640,
-        "long": -6952,
+        "lat": "-6.667",
+        "long": "-69.867",
         "tz_name": "America/Eirunepe",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 1342,
-        "long": -8912,
+        "lat": "13.700",
+        "long": "-89.200",
         "tz_name": "America/El_Salvador",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 5848,
-        "long": -12242,
+        "lat": "58.800",
+        "long": "-122.700",
         "tz_name": "America/Fort_Nelson",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": -343,
-        "long": -3830,
+        "lat": "-3.717",
+        "long": "-38.500",
         "tz_name": "America/Fortaleza",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 4612,
-        "long": -5957,
+        "lat": "46.200",
+        "long": "-59.950",
         "tz_name": "America/Glace_Bay",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 6411,
-        "long": -5144,
+        "lat": "64.183",
+        "long": "-51.733",
         "tz_name": "America/Godthab",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 5320,
-        "long": -6025,
+        "lat": "53.333",
+        "long": "-60.417",
         "tz_name": "America/Goose_Bay",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 2128,
-        "long": -7108,
+        "lat": "21.467",
+        "long": "-71.133",
         "tz_name": "America/Grand_Turk",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 1203,
-        "long": -6145,
+        "lat": "12.050",
+        "long": "-61.750",
         "tz_name": "America/Grenada",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1614,
-        "long": -6132,
+        "lat": "16.233",
+        "long": "-61.533",
         "tz_name": "America/Guadeloupe",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1438,
-        "long": -9031,
+        "lat": "14.633",
+        "long": "-90.517",
         "tz_name": "America/Guatemala",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": -210,
-        "long": -7950,
+        "lat": "-2.167",
+        "long": "-79.833",
         "tz_name": "America/Guayaquil",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 648,
-        "long": -5810,
+        "lat": "6.800",
+        "long": "-58.167",
         "tz_name": "America/Guyana",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 4439,
-        "long": -6336,
+        "lat": "44.650",
+        "long": "-63.600",
         "tz_name": "America/Halifax",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 2308,
-        "long": -8222,
+        "lat": "23.133",
+        "long": "-82.367",
         "tz_name": "America/Havana",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 2904,
-        "long": -11058,
+        "lat": "29.067",
+        "long": "-110.967",
         "tz_name": "America/Hermosillo",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 394606,
-        "long": -860929,
+        "lat": "39.768",
+        "long": "-86.158",
         "tz_name": "America/Indiana/Indianapolis",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 411745,
-        "long": -863730,
+        "lat": "41.296",
+        "long": "-86.625",
         "tz_name": "America/Indiana/Knox",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 382232,
-        "long": -862041,
+        "lat": "38.376",
+        "long": "-86.345",
         "tz_name": "America/Indiana/Marengo",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 382931,
-        "long": -871643,
+        "lat": "38.492",
+        "long": "-87.279",
         "tz_name": "America/Indiana/Petersburg",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 375711,
-        "long": -864541,
+        "lat": "37.953",
+        "long": "-86.761",
         "tz_name": "America/Indiana/Tell_City",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 384452,
-        "long": -850402,
+        "lat": "38.748",
+        "long": "-85.067",
         "tz_name": "America/Indiana/Vevay",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 384038,
-        "long": -873143,
+        "lat": "38.677",
+        "long": "-87.529",
         "tz_name": "America/Indiana/Vincennes",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 410305,
-        "long": -863611,
+        "lat": "41.051",
+        "long": "-86.603",
         "tz_name": "America/Indiana/Winamac",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 682059,
-        "long": -13343,
+        "lat": "68.350",
+        "long": "-133.717",
         "tz_name": "America/Inuvik",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 6344,
-        "long": -6828,
+        "lat": "63.733",
+        "long": "-68.467",
         "tz_name": "America/Iqaluit",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 175805,
-        "long": -764736,
+        "lat": "17.968",
+        "long": "-76.793",
         "tz_name": "America/Jamaica",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 581807,
-        "long": -1342511,
+        "lat": "58.302",
+        "long": "-134.420",
         "tz_name": "America/Juneau",
-        "utc_offset": "\u221209:00"
+        "utc_offset": "-09:00"
     },
     {
-        "lat": 381515,
-        "long": -854534,
+        "lat": "38.254",
+        "long": "-85.759",
         "tz_name": "America/Kentucky/Louisville",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 364947,
-        "long": -845057,
+        "lat": "36.830",
+        "long": "-84.849",
         "tz_name": "America/Kentucky/Monticello",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 120903,
-        "long": -681636,
+        "lat": "12.151",
+        "long": "-68.277",
         "tz_name": "America/Kralendijk",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -1630,
-        "long": -6809,
+        "lat": "-16.500",
+        "long": "-68.150",
         "tz_name": "America/La_Paz",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -1203,
-        "long": -7703,
+        "lat": "-12.050",
+        "long": "-77.050",
         "tz_name": "America/Lima",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 340308,
-        "long": -1181434,
+        "lat": "34.052",
+        "long": "-118.243",
         "tz_name": "America/Los_Angeles",
-        "utc_offset": "\u221208:00"
+        "utc_offset": "-08:00"
     },
     {
-        "lat": 180305,
-        "long": -630250,
+        "lat": "18.051",
+        "long": "-63.047",
         "tz_name": "America/Lower_Princes",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -940,
-        "long": -3543,
+        "lat": "-9.667",
+        "long": "-35.717",
         "tz_name": "America/Maceio",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 1209,
-        "long": -8617,
+        "lat": "12.150",
+        "long": "-86.283",
         "tz_name": "America/Managua",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": -308,
-        "long": -6001,
+        "lat": "-3.133",
+        "long": "-60.017",
         "tz_name": "America/Manaus",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1804,
-        "long": -6305,
+        "lat": "18.067",
+        "long": "-63.083",
         "tz_name": "America/Marigot",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1436,
-        "long": -6105,
+        "lat": "14.600",
+        "long": "-61.083",
         "tz_name": "America/Martinique",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 2550,
-        "long": -9730,
+        "lat": "25.833",
+        "long": "-97.500",
         "tz_name": "America/Matamoros",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 2313,
-        "long": -10625,
+        "lat": "23.217",
+        "long": "-106.417",
         "tz_name": "America/Mazatlan",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 450628,
-        "long": -873651,
+        "lat": "45.108",
+        "long": "-87.614",
         "tz_name": "America/Menominee",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 2058,
-        "long": -8937,
+        "lat": "20.967",
+        "long": "-89.617",
         "tz_name": "America/Merida",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 550737,
-        "long": -1313435,
+        "lat": "55.127",
+        "long": "-131.576",
         "tz_name": "America/Metlakatla",
-        "utc_offset": "\u221209:00"
+        "utc_offset": "-09:00"
     },
     {
-        "lat": 1924,
-        "long": -9909,
+        "lat": "19.400",
+        "long": "-99.150",
         "tz_name": "America/Mexico_City",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 4703,
-        "long": -5620,
+        "lat": "47.050",
+        "long": "-56.333",
         "tz_name": "America/Miquelon",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 4606,
-        "long": -6447,
+        "lat": "46.100",
+        "long": "-64.783",
         "tz_name": "America/Moncton",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 2540,
-        "long": -10019,
+        "lat": "25.667",
+        "long": "-100.317",
         "tz_name": "America/Monterrey",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": -3453,
-        "long": -5611,
+        "lat": "-34.883",
+        "long": "-56.183",
         "tz_name": "America/Montevideo",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 1643,
-        "long": -6213,
+        "lat": "16.717",
+        "long": "-62.217",
         "tz_name": "America/Montserrat",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 2505,
-        "long": -7721,
+        "lat": "25.083",
+        "long": "-77.350",
         "tz_name": "America/Nassau",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 404251,
-        "long": -740023,
+        "lat": "40.714",
+        "long": "-74.006",
         "tz_name": "America/New_York",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 4901,
-        "long": -8816,
+        "lat": "49.017",
+        "long": "-88.267",
         "tz_name": "America/Nipigon",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 643004,
-        "long": -1652423,
+        "lat": "64.501",
+        "long": "-165.406",
         "tz_name": "America/Nome",
-        "utc_offset": "\u221209:00"
+        "utc_offset": "-09:00"
     },
     {
-        "lat": -351,
-        "long": -3225,
+        "lat": "-3.850",
+        "long": "-32.417",
         "tz_name": "America/Noronha",
-        "utc_offset": "\u221202:00"
+        "utc_offset": "-02:00"
     },
     {
-        "lat": 471551,
-        "long": -1014640,
+        "lat": "47.264",
+        "long": "-101.778",
         "tz_name": "America/North_Dakota/Beulah",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 470659,
-        "long": -1011757,
+        "lat": "47.116",
+        "long": "-101.299",
         "tz_name": "America/North_Dakota/Center",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 465042,
-        "long": -1012439,
+        "lat": "46.845",
+        "long": "-101.411",
         "tz_name": "America/North_Dakota/New_Salem",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 2934,
-        "long": -10425,
+        "lat": "29.567",
+        "long": "-104.417",
         "tz_name": "America/Ojinaga",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 858,
-        "long": -7932,
+        "lat": "8.967",
+        "long": "-79.533",
         "tz_name": "America/Panama",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 6608,
-        "long": -6544,
+        "lat": "66.133",
+        "long": "-65.733",
         "tz_name": "America/Pangnirtung",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 550,
-        "long": -5510,
+        "lat": "5.833",
+        "long": "-55.167",
         "tz_name": "America/Paramaribo",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 332654,
-        "long": -1120424,
+        "lat": "33.448",
+        "long": "-112.073",
         "tz_name": "America/Phoenix",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": 1039,
-        "long": -6131,
+        "lat": "10.650",
+        "long": "-61.517",
         "tz_name": "America/Port_of_Spain",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1832,
-        "long": -7220,
+        "lat": "18.533",
+        "long": "-72.333",
         "tz_name": "America/Port-au-Prince",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": -846,
-        "long": -6354,
+        "lat": "-8.767",
+        "long": "-63.900",
         "tz_name": "America/Porto_Velho",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 182806,
-        "long": -660622,
+        "lat": "18.468",
+        "long": "-66.106",
         "tz_name": "America/Puerto_Rico",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -5309,
-        "long": -7055,
+        "lat": "-53.150",
+        "long": "-70.917",
         "tz_name": "America/Punta_Arenas",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 4843,
-        "long": -9434,
+        "lat": "48.717",
+        "long": "-94.567",
         "tz_name": "America/Rainy_River",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 6249,
-        "long": -920459,
+        "lat": "62.817",
+        "long": "-92.083",
         "tz_name": "America/Rankin_Inlet",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": -803,
-        "long": -3454,
+        "lat": "-8.050",
+        "long": "-34.900",
         "tz_name": "America/Recife",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 5024,
-        "long": -10439,
+        "lat": "50.400",
+        "long": "-104.650",
         "tz_name": "America/Regina",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 744144,
-        "long": -944945,
+        "lat": "74.696",
+        "long": "-94.829",
         "tz_name": "America/Resolute",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": -958,
-        "long": -6748,
+        "lat": "-9.967",
+        "long": "-67.800",
         "tz_name": "America/Rio_Branco",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": -226,
-        "long": -5452,
+        "lat": "-2.433",
+        "long": "-54.867",
         "tz_name": "America/Santarem",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -3327,
-        "long": -7040,
+        "lat": "-33.450",
+        "long": "-70.667",
         "tz_name": "America/Santiago",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1828,
-        "long": -6954,
+        "lat": "18.467",
+        "long": "-69.900",
         "tz_name": "America/Santo_Domingo",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": -2332,
-        "long": -4637,
+        "lat": "-23.533",
+        "long": "-46.617",
         "tz_name": "America/Sao_Paulo",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": 7029,
-        "long": -2158,
+        "lat": "70.483",
+        "long": "-21.967",
         "tz_name": "America/Scoresbysund",
-        "utc_offset": "\u221201:00"
+        "utc_offset": "-01:00"
     },
     {
-        "lat": 571035,
-        "long": -1351807,
+        "lat": "57.176",
+        "long": "-135.302",
         "tz_name": "America/Sitka",
-        "utc_offset": "\u221209:00"
+        "utc_offset": "-09:00"
     },
     {
-        "lat": 1753,
-        "long": -6251,
+        "lat": "17.883",
+        "long": "-62.850",
         "tz_name": "America/St_Barthelemy",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 4734,
-        "long": -5243,
+        "lat": "47.567",
+        "long": "-52.717",
         "tz_name": "America/St_Johns",
-        "utc_offset": "\u221203:30"
+        "utc_offset": "-03:30"
     },
     {
-        "lat": 1718,
-        "long": -6243,
+        "lat": "17.300",
+        "long": "-62.717",
         "tz_name": "America/St_Kitts",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1401,
-        "long": -6100,
+        "lat": "14.017",
+        "long": "-61.000",
         "tz_name": "America/St_Lucia",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1821,
-        "long": -6456,
+        "lat": "18.350",
+        "long": "-64.933",
         "tz_name": "America/St_Thomas",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 1309,
-        "long": -6114,
+        "lat": "13.150",
+        "long": "-61.233",
         "tz_name": "America/St_Vincent",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 5017,
-        "long": -10750,
+        "lat": "50.283",
+        "long": "-107.833",
         "tz_name": "America/Swift_Current",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 1406,
-        "long": -8713,
+        "lat": "14.100",
+        "long": "-87.217",
         "tz_name": "America/Tegucigalpa",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 7634,
-        "long": -6847,
+        "lat": "76.567",
+        "long": "-68.783",
         "tz_name": "America/Thule",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 4823,
-        "long": -8915,
+        "lat": "48.383",
+        "long": "-89.250",
         "tz_name": "America/Thunder_Bay",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 3232,
-        "long": -11701,
+        "lat": "32.533",
+        "long": "-117.017",
         "tz_name": "America/Tijuana",
-        "utc_offset": "\u221208:00"
+        "utc_offset": "-08:00"
     },
     {
-        "lat": 4339,
-        "long": -7923,
+        "lat": "43.650",
+        "long": "-79.383",
         "tz_name": "America/Toronto",
-        "utc_offset": "\u221205:00"
+        "utc_offset": "-05:00"
     },
     {
-        "lat": 1827,
-        "long": -6437,
+        "lat": "18.450",
+        "long": "-64.617",
         "tz_name": "America/Tortola",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 4916,
-        "long": -12307,
+        "lat": "49.267",
+        "long": "-123.117",
         "tz_name": "America/Vancouver",
-        "utc_offset": "\u221208:00"
+        "utc_offset": "-08:00"
     },
     {
-        "lat": 6043,
-        "long": -13503,
+        "lat": "60.717",
+        "long": "-135.050",
         "tz_name": "America/Whitehorse",
-        "utc_offset": "\u221208:00"
+        "utc_offset": "-08:00"
     },
     {
-        "lat": 4953,
-        "long": -9709,
+        "lat": "49.883",
+        "long": "-97.150",
         "tz_name": "America/Winnipeg",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": 593249,
-        "long": -1394338,
+        "lat": "59.547",
+        "long": "-139.727",
         "tz_name": "America/Yakutat",
-        "utc_offset": "\u221209:00"
+        "utc_offset": "-09:00"
     },
     {
-        "lat": 6227,
-        "long": -11421,
+        "lat": "62.450",
+        "long": "-114.350",
         "tz_name": "America/Yellowknife",
-        "utc_offset": "\u221207:00"
+        "utc_offset": "-07:00"
     },
     {
-        "lat": -6617,
-        "long": 11031,
+        "lat": "-66.283",
+        "long": "110.517",
         "tz_name": "Antarctica/Casey",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -6835,
-        "long": 7758,
+        "lat": "-68.583",
+        "long": "77.967",
         "tz_name": "Antarctica/Davis",
         "utc_offset": "+07:00"
     },
     {
-        "lat": -6640,
-        "long": 14001,
+        "lat": "-66.667",
+        "long": "140.017",
         "tz_name": "Antarctica/DumontDUrville",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -5430,
-        "long": 15857,
+        "lat": "-54.500",
+        "long": "158.950",
         "tz_name": "Antarctica/Macquarie",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -6736,
-        "long": 6253,
+        "lat": "-67.600",
+        "long": "62.883",
         "tz_name": "Antarctica/Mawson",
         "utc_offset": "+05:00"
     },
     {
-        "lat": -7750,
-        "long": 16636,
+        "lat": "-77.833",
+        "long": "166.600",
         "tz_name": "Antarctica/McMurdo",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -6448,
-        "long": -6406,
+        "lat": "-64.800",
+        "long": "-64.100",
         "tz_name": "Antarctica/Palmer",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -6734,
-        "long": -6808,
+        "lat": "-67.567",
+        "long": "-68.133",
         "tz_name": "Antarctica/Rothera",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -690022,
-        "long": 393524,
+        "lat": "-69.006",
+        "long": "39.590",
         "tz_name": "Antarctica/Syowa",
         "utc_offset": "+03:00"
     },
     {
-        "lat": -720041,
-        "long": 23206,
+        "lat": "-72.011",
+        "long": "2.535",
         "tz_name": "Antarctica/Troll",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -7824,
-        "long": 10654,
+        "lat": "-78.400",
+        "long": "106.900",
         "tz_name": "Antarctica/Vostok",
         "utc_offset": "+06:00"
     },
     {
-        "lat": 7800,
-        "long": 1600,
+        "lat": "78.000",
+        "long": "16.000",
         "tz_name": "Arctic/Longyearbyen",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 1245,
-        "long": 4512,
+        "lat": "12.750",
+        "long": "45.200",
         "tz_name": "Asia/Aden",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 4315,
-        "long": 7657,
+        "lat": "43.250",
+        "long": "76.950",
         "tz_name": "Asia/Almaty",
         "utc_offset": "+06:00"
     },
     {
-        "lat": 3157,
-        "long": 3556,
+        "lat": "31.950",
+        "long": "35.933",
         "tz_name": "Asia/Amman",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 6445,
-        "long": 17729,
+        "lat": "64.750",
+        "long": "177.483",
         "tz_name": "Asia/Anadyr",
         "utc_offset": "+12:00"
     },
     {
-        "lat": 4431,
-        "long": 5016,
+        "lat": "44.517",
+        "long": "50.267",
         "tz_name": "Asia/Aqtau",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 5017,
-        "long": 5710,
+        "lat": "50.283",
+        "long": "57.167",
         "tz_name": "Asia/Aqtobe",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 3757,
-        "long": 5823,
+        "lat": "37.950",
+        "long": "58.383",
         "tz_name": "Asia/Ashgabat",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 4707,
-        "long": 5156,
+        "lat": "47.117",
+        "long": "51.933",
         "tz_name": "Asia/Atyrau",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 3321,
-        "long": 4425,
+        "lat": "33.350",
+        "long": "44.417",
         "tz_name": "Asia/Baghdad",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 2623,
-        "long": 5035,
+        "lat": "26.383",
+        "long": "50.583",
         "tz_name": "Asia/Bahrain",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 4023,
-        "long": 4951,
+        "lat": "40.383",
+        "long": "49.850",
         "tz_name": "Asia/Baku",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 1345,
-        "long": 10031,
+        "lat": "13.750",
+        "long": "100.517",
         "tz_name": "Asia/Bangkok",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 5322,
-        "long": 8345,
+        "lat": "53.367",
+        "long": "83.750",
         "tz_name": "Asia/Barnaul",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 3353,
-        "long": 3530,
+        "lat": "33.883",
+        "long": "35.500",
         "tz_name": "Asia/Beirut",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4254,
-        "long": 7436,
+        "lat": "42.900",
+        "long": "74.600",
         "tz_name": "Asia/Bishkek",
         "utc_offset": "+06:00"
     },
     {
-        "lat": 456,
-        "long": 11455,
+        "lat": "4.933",
+        "long": "114.917",
         "tz_name": "Asia/Brunei",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 5203,
-        "long": 11328,
+        "lat": "52.050",
+        "long": "113.467",
         "tz_name": "Asia/Chita",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 4804,
-        "long": 11430,
+        "lat": "48.067",
+        "long": "114.500",
         "tz_name": "Asia/Choibalsan",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 656,
-        "long": 7951,
+        "lat": "6.933",
+        "long": "79.850",
         "tz_name": "Asia/Colombo",
         "utc_offset": "+05:30"
     },
     {
-        "lat": 3330,
-        "long": 3618,
+        "lat": "33.500",
+        "long": "36.300",
         "tz_name": "Asia/Damascus",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 2343,
-        "long": 9025,
+        "lat": "23.717",
+        "long": "90.417",
         "tz_name": "Asia/Dhaka",
         "utc_offset": "+06:00"
     },
     {
-        "lat": -833,
-        "long": 12535,
+        "lat": "-8.550",
+        "long": "125.583",
         "tz_name": "Asia/Dili",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 2518,
-        "long": 5518,
+        "lat": "25.300",
+        "long": "55.300",
         "tz_name": "Asia/Dubai",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 3835,
-        "long": 6848,
+        "lat": "38.583",
+        "long": "68.800",
         "tz_name": "Asia/Dushanbe",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 3507,
-        "long": 3357,
+        "lat": "35.117",
+        "long": "33.950",
         "tz_name": "Asia/Famagusta",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 3130,
-        "long": 3428,
+        "lat": "31.500",
+        "long": "34.467",
         "tz_name": "Asia/Gaza",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 3132,
-        "long": 350542,
+        "lat": "31.533",
+        "long": "35.095",
         "tz_name": "Asia/Hebron",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 1045,
-        "long": 10640,
+        "lat": "10.750",
+        "long": "106.667",
         "tz_name": "Asia/Ho_Chi_Minh",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 2217,
-        "long": 11409,
+        "lat": "22.283",
+        "long": "114.150",
         "tz_name": "Asia/Hong_Kong",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 4801,
-        "long": 9139,
+        "lat": "48.017",
+        "long": "91.650",
         "tz_name": "Asia/Hovd",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 5216,
-        "long": 10420,
+        "lat": "52.267",
+        "long": "104.333",
         "tz_name": "Asia/Irkutsk",
         "utc_offset": "+08:00"
     },
     {
-        "lat": -610,
-        "long": 10648,
+        "lat": "-6.167",
+        "long": "106.800",
         "tz_name": "Asia/Jakarta",
         "utc_offset": "+07:00"
     },
     {
-        "lat": -232,
-        "long": 14042,
+        "lat": "-2.533",
+        "long": "140.700",
         "tz_name": "Asia/Jayapura",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 314650,
-        "long": 351326,
+        "lat": "31.781",
+        "long": "35.224",
         "tz_name": "Asia/Jerusalem",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 3431,
-        "long": 6912,
+        "lat": "34.517",
+        "long": "69.200",
         "tz_name": "Asia/Kabul",
         "utc_offset": "+04:30"
     },
     {
-        "lat": 5301,
-        "long": 15839,
+        "lat": "53.017",
+        "long": "158.650",
         "tz_name": "Asia/Kamchatka",
         "utc_offset": "+12:00"
     },
     {
-        "lat": 2452,
-        "long": 6703,
+        "lat": "24.867",
+        "long": "67.050",
         "tz_name": "Asia/Karachi",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 2743,
-        "long": 8519,
+        "lat": "27.717",
+        "long": "85.317",
         "tz_name": "Asia/Kathmandu",
         "utc_offset": "+05:45"
     },
     {
-        "lat": 623923,
-        "long": 1353314,
+        "lat": "62.656",
+        "long": "135.554",
         "tz_name": "Asia/Khandyga",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 2232,
-        "long": 8822,
+        "lat": "22.533",
+        "long": "88.367",
         "tz_name": "Asia/Kolkata",
         "utc_offset": "+05:30"
     },
     {
-        "lat": 5601,
-        "long": 9250,
+        "lat": "56.017",
+        "long": "92.833",
         "tz_name": "Asia/Krasnoyarsk",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 310,
-        "long": 10142,
+        "lat": "3.167",
+        "long": "101.700",
         "tz_name": "Asia/Kuala_Lumpur",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 133,
-        "long": 11020,
+        "lat": "1.550",
+        "long": "110.333",
         "tz_name": "Asia/Kuching",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 2920,
-        "long": 4759,
+        "lat": "29.333",
+        "long": "47.983",
         "tz_name": "Asia/Kuwait",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 2214,
-        "long": 11335,
+        "lat": "22.233",
+        "long": "113.583",
         "tz_name": "Asia/Macau",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 5934,
-        "long": 15048,
+        "lat": "59.567",
+        "long": "150.800",
         "tz_name": "Asia/Magadan",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -507,
-        "long": 11924,
+        "lat": "-5.117",
+        "long": "119.400",
         "tz_name": "Asia/Makassar",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 1435,
-        "long": 12100,
+        "lat": "14.583",
+        "long": "121.000",
         "tz_name": "Asia/Manila",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 2336,
-        "long": 5835,
+        "lat": "23.600",
+        "long": "58.583",
         "tz_name": "Asia/Muscat",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 5345,
-        "long": 8707,
+        "lat": "53.750",
+        "long": "87.117",
         "tz_name": "Asia/Novokuznetsk",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 5502,
-        "long": 8255,
+        "lat": "55.033",
+        "long": "82.917",
         "tz_name": "Asia/Novosibirsk",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 5500,
-        "long": 7324,
+        "lat": "55.000",
+        "long": "73.400",
         "tz_name": "Asia/Omsk",
         "utc_offset": "+06:00"
     },
     {
-        "lat": 5113,
-        "long": 5121,
+        "lat": "51.217",
+        "long": "51.350",
         "tz_name": "Asia/Oral",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 1133,
-        "long": 10455,
+        "lat": "11.550",
+        "long": "104.917",
         "tz_name": "Asia/Phnom_Penh",
         "utc_offset": "+07:00"
     },
     {
-        "lat": -2,
-        "long": 10920,
+        "lat": "-0.033",
+        "long": "109.333",
         "tz_name": "Asia/Pontianak",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 3901,
-        "long": 12545,
+        "lat": "39.017",
+        "long": "125.750",
         "tz_name": "Asia/Pyongyang",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 2517,
-        "long": 5132,
+        "lat": "25.283",
+        "long": "51.533",
         "tz_name": "Asia/Qatar",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 4448,
-        "long": 6528,
+        "lat": "44.800",
+        "long": "65.467",
         "tz_name": "Asia/Qyzylorda",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 1647,
-        "long": 9610,
+        "lat": "16.783",
+        "long": "96.167",
         "tz_name": "Asia/Rangoon",
         "utc_offset": "+06:30"
     },
     {
-        "lat": 2438,
-        "long": 4643,
+        "lat": "24.633",
+        "long": "46.717",
         "tz_name": "Asia/Riyadh",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 4658,
-        "long": 14242,
+        "lat": "46.967",
+        "long": "142.700",
         "tz_name": "Asia/Sakhalin",
         "utc_offset": "+11:00"
     },
     {
-        "lat": 3940,
-        "long": 6648,
+        "lat": "39.667",
+        "long": "66.800",
         "tz_name": "Asia/Samarkand",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 3733,
-        "long": 12658,
+        "lat": "37.550",
+        "long": "126.967",
         "tz_name": "Asia/Seoul",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 3114,
-        "long": 12128,
+        "lat": "31.233",
+        "long": "121.467",
         "tz_name": "Asia/Shanghai",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 117,
-        "long": 10351,
+        "lat": "1.283",
+        "long": "103.850",
         "tz_name": "Asia/Singapore",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 6728,
-        "long": 15343,
+        "lat": "67.467",
+        "long": "153.717",
         "tz_name": "Asia/Srednekolymsk",
         "utc_offset": "+11:00"
     },
     {
-        "lat": 2503,
-        "long": 12130,
+        "lat": "25.050",
+        "long": "121.500",
         "tz_name": "Asia/Taipei",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 4120,
-        "long": 6918,
+        "lat": "41.333",
+        "long": "69.300",
         "tz_name": "Asia/Tashkent",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 4143,
-        "long": 4449,
+        "lat": "41.717",
+        "long": "44.817",
         "tz_name": "Asia/Tbilisi",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 3540,
-        "long": 5126,
+        "lat": "35.667",
+        "long": "51.433",
         "tz_name": "Asia/Tehran",
         "utc_offset": "+03:30"
     },
     {
-        "lat": 2728,
-        "long": 8939,
+        "lat": "27.467",
+        "long": "89.650",
         "tz_name": "Asia/Thimphu",
         "utc_offset": "+06:00"
     },
     {
-        "lat": 353916,
-        "long": 1394441,
+        "lat": "35.654",
+        "long": "139.745",
         "tz_name": "Asia/Tokyo",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 5630,
-        "long": 8458,
+        "lat": "56.500",
+        "long": "84.967",
         "tz_name": "Asia/Tomsk",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 4755,
-        "long": 10653,
+        "lat": "47.917",
+        "long": "106.883",
         "tz_name": "Asia/Ulaanbaatar",
         "utc_offset": "+08:00"
     },
     {
-        "lat": 4348,
-        "long": 8735,
+        "lat": "43.800",
+        "long": "87.583",
         "tz_name": "Asia/Urumqi",
         "utc_offset": "+06:00"
     },
     {
-        "lat": 643337,
-        "long": 1431336,
+        "lat": "64.560",
+        "long": "143.227",
         "tz_name": "Asia/Ust-Nera",
         "utc_offset": "+10:00"
     },
     {
-        "lat": 1758,
-        "long": 10236,
+        "lat": "17.967",
+        "long": "102.600",
         "tz_name": "Asia/Vientiane",
         "utc_offset": "+07:00"
     },
     {
-        "lat": 4310,
-        "long": 13156,
+        "lat": "43.167",
+        "long": "131.933",
         "tz_name": "Asia/Vladivostok",
         "utc_offset": "+10:00"
     },
     {
-        "lat": 6200,
-        "long": 12940,
+        "lat": "62.000",
+        "long": "129.667",
         "tz_name": "Asia/Yakutsk",
         "utc_offset": "+09:00"
     },
     {
-        "lat": 1647,
-        "long": 9610,
+        "lat": "16.783",
+        "long": "96.167",
         "tz_name": "Asia/Yangon",
         "utc_offset": "+06:30"
     },
     {
-        "lat": 5651,
-        "long": 6036,
+        "lat": "56.850",
+        "long": "60.600",
         "tz_name": "Asia/Yekaterinburg",
         "utc_offset": "+05:00"
     },
     {
-        "lat": 4011,
-        "long": 4430,
+        "lat": "40.183",
+        "long": "44.500",
         "tz_name": "Asia/Yerevan",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 3744,
-        "long": -2540,
+        "lat": "37.733",
+        "long": "-25.667",
         "tz_name": "Atlantic/Azores",
-        "utc_offset": "\u221201:00"
+        "utc_offset": "-01:00"
     },
     {
-        "lat": 3217,
-        "long": -6446,
+        "lat": "32.283",
+        "long": "-64.767",
         "tz_name": "Atlantic/Bermuda",
-        "utc_offset": "\u221204:00"
+        "utc_offset": "-04:00"
     },
     {
-        "lat": 2806,
-        "long": -1524,
+        "lat": "28.100",
+        "long": "-15.400",
         "tz_name": "Atlantic/Canary",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 1455,
-        "long": -2331,
+        "lat": "14.917",
+        "long": "-23.517",
         "tz_name": "Atlantic/Cape_Verde",
-        "utc_offset": "\u221201:00"
+        "utc_offset": "-01:00"
     },
     {
-        "lat": 6201,
-        "long": -646,
+        "lat": "62.017",
+        "long": "-6.767",
         "tz_name": "Atlantic/Faroe",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 3238,
-        "long": -1654,
+        "lat": "32.633",
+        "long": "-16.900",
         "tz_name": "Atlantic/Madeira",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 6409,
-        "long": -2151,
+        "lat": "64.150",
+        "long": "-21.850",
         "tz_name": "Atlantic/Reykjavik",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -5416,
-        "long": -3632,
+        "lat": "-54.267",
+        "long": "-36.533",
         "tz_name": "Atlantic/South_Georgia",
-        "utc_offset": "\u221202:00"
+        "utc_offset": "-02:00"
     },
     {
-        "lat": -1555,
-        "long": -542,
+        "lat": "-15.917",
+        "long": "-5.700",
         "tz_name": "Atlantic/St_Helena",
         "utc_offset": "+00:00"
     },
     {
-        "lat": -5142,
-        "long": -5751,
+        "lat": "-51.700",
+        "long": "-57.850",
         "tz_name": "Atlantic/Stanley",
-        "utc_offset": "\u221203:00"
+        "utc_offset": "-03:00"
     },
     {
-        "lat": -3455,
-        "long": 13835,
+        "lat": "-34.917",
+        "long": "138.583",
         "tz_name": "Australia/Adelaide",
         "utc_offset": "+09:30"
     },
     {
-        "lat": -2728,
-        "long": 15302,
+        "lat": "-27.467",
+        "long": "153.033",
         "tz_name": "Australia/Brisbane",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -3157,
-        "long": 14127,
+        "lat": "-31.950",
+        "long": "141.450",
         "tz_name": "Australia/Broken_Hill",
         "utc_offset": "+09:30"
     },
     {
-        "lat": -3956,
-        "long": 14352,
+        "lat": "-39.933",
+        "long": "143.867",
         "tz_name": "Australia/Currie",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -1228,
-        "long": 13050,
+        "lat": "-12.467",
+        "long": "130.833",
         "tz_name": "Australia/Darwin",
         "utc_offset": "+09:30"
     },
     {
-        "lat": -3143,
-        "long": 12852,
+        "lat": "-31.717",
+        "long": "128.867",
         "tz_name": "Australia/Eucla",
         "utc_offset": "+08:45"
     },
     {
-        "lat": -4253,
-        "long": 14719,
+        "lat": "-42.883",
+        "long": "147.317",
         "tz_name": "Australia/Hobart",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -2016,
-        "long": 14900,
+        "lat": "-20.267",
+        "long": "149.000",
         "tz_name": "Australia/Lindeman",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -3133,
-        "long": 15905,
+        "lat": "-31.550",
+        "long": "159.083",
         "tz_name": "Australia/Lord_Howe",
         "utc_offset": "+10:30"
     },
     {
-        "lat": -3749,
-        "long": 14458,
+        "lat": "-37.817",
+        "long": "144.967",
         "tz_name": "Australia/Melbourne",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -3157,
-        "long": 11551,
+        "lat": "-31.950",
+        "long": "115.850",
         "tz_name": "Australia/Perth",
         "utc_offset": "+08:00"
     },
     {
-        "lat": -3352,
-        "long": 15113,
+        "lat": "-33.867",
+        "long": "151.217",
         "tz_name": "Australia/Sydney",
         "utc_offset": "+10:00"
     },
     {
-        "lat": 5222,
-        "long": 454,
+        "lat": "52.367",
+        "long": "4.900",
         "tz_name": "Europe/Amsterdam",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4230,
-        "long": 131,
+        "lat": "42.500",
+        "long": "1.517",
         "tz_name": "Europe/Andorra",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4621,
-        "long": 4803,
+        "lat": "46.350",
+        "long": "48.050",
         "tz_name": "Europe/Astrakhan",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 3758,
-        "long": 2343,
+        "lat": "37.967",
+        "long": "23.717",
         "tz_name": "Europe/Athens",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4450,
-        "long": 2030,
+        "lat": "44.833",
+        "long": "20.500",
         "tz_name": "Europe/Belgrade",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4450,
-        "long": 2030,
+        "lat": "44.833",
+        "long": "20.500",
         "tz_name": "Europe/Sarajevo",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5230,
-        "long": 1322,
+        "lat": "52.500",
+        "long": "13.367",
         "tz_name": "Europe/Berlin",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4809,
-        "long": 1707,
+        "lat": "48.150",
+        "long": "17.117",
         "tz_name": "Europe/Bratislava",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5050,
-        "long": 420,
+        "lat": "50.833",
+        "long": "4.333",
         "tz_name": "Europe/Brussels",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4426,
-        "long": 2606,
+        "lat": "44.433",
+        "long": "26.100",
         "tz_name": "Europe/Bucharest",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4730,
-        "long": 1905,
+        "lat": "47.500",
+        "long": "19.083",
         "tz_name": "Europe/Budapest",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4742,
-        "long": 841,
+        "lat": "47.700",
+        "long": "8.683",
         "tz_name": "Europe/Busingen",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4700,
-        "long": 2850,
+        "lat": "47.000",
+        "long": "28.833",
         "tz_name": "Europe/Chisinau",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 5540,
-        "long": 1235,
+        "lat": "55.667",
+        "long": "12.583",
         "tz_name": "Europe/Copenhagen",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5320,
-        "long": -615,
+        "lat": "53.333",
+        "long": "-6.250",
         "tz_name": "Europe/Dublin",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 3608,
-        "long": -521,
+        "lat": "36.133",
+        "long": "-5.350",
         "tz_name": "Europe/Gibraltar",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 492717,
-        "long": -23210,
+        "lat": "49.455",
+        "long": "-2.536",
         "tz_name": "Europe/Guernsey",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 6010,
-        "long": 2458,
+        "lat": "60.167",
+        "long": "24.967",
         "tz_name": "Europe/Helsinki",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 5409,
-        "long": -428,
+        "lat": "54.150",
+        "long": "-4.467",
         "tz_name": "Europe/Isle_of_Man",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 4101,
-        "long": 2858,
+        "lat": "41.017",
+        "long": "28.967",
         "tz_name": "Europe/Istanbul",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 491101,
-        "long": -20624,
+        "lat": "49.184",
+        "long": "-2.107",
         "tz_name": "Europe/Jersey",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 5443,
-        "long": 2030,
+        "lat": "54.717",
+        "long": "20.500",
         "tz_name": "Europe/Kaliningrad",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 5026,
-        "long": 3031,
+        "lat": "50.433",
+        "long": "30.517",
         "tz_name": "Europe/Kiev",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 5836,
-        "long": 4939,
+        "lat": "58.600",
+        "long": "49.650",
         "tz_name": "Europe/Kirov",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 3843,
-        "long": -908,
+        "lat": "38.717",
+        "long": "-9.133",
         "tz_name": "Europe/Lisbon",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 4603,
-        "long": 1431,
+        "lat": "46.050",
+        "long": "14.517",
         "tz_name": "Europe/Ljubljana",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 513030,
-        "long": -731,
+        "lat": "51.508",
+        "long": "-0.125",
         "tz_name": "Europe/London",
         "utc_offset": "+00:00"
     },
     {
-        "lat": 4936,
-        "long": 609,
+        "lat": "49.600",
+        "long": "6.150",
         "tz_name": "Europe/Luxembourg",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4024,
-        "long": -341,
+        "lat": "40.400",
+        "long": "-3.683",
         "tz_name": "Europe/Madrid",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 3554,
-        "long": 1431,
+        "lat": "35.900",
+        "long": "14.517",
         "tz_name": "Europe/Malta",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 6006,
-        "long": 1957,
+        "lat": "60.100",
+        "long": "19.950",
         "tz_name": "Europe/Mariehamn",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 5354,
-        "long": 2734,
+        "lat": "53.900",
+        "long": "27.567",
         "tz_name": "Europe/Minsk",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 4342,
-        "long": 723,
+        "lat": "43.700",
+        "long": "7.383",
         "tz_name": "Europe/Monaco",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 554521,
-        "long": 373704,
+        "lat": "55.756",
+        "long": "37.618",
         "tz_name": "Europe/Moscow",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 3510,
-        "long": 3322,
+        "lat": "35.167",
+        "long": "33.367",
         "tz_name": "Asia/Nicosia",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 5955,
-        "long": 1045,
+        "lat": "59.917",
+        "long": "10.750",
         "tz_name": "Europe/Oslo",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4852,
-        "long": 220,
+        "lat": "48.867",
+        "long": "2.333",
         "tz_name": "Europe/Paris",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4226,
-        "long": 1916,
+        "lat": "42.433",
+        "long": "19.267",
         "tz_name": "Europe/Podgorica",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5005,
-        "long": 1426,
+        "lat": "50.083",
+        "long": "14.433",
         "tz_name": "Europe/Prague",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5657,
-        "long": 2406,
+        "lat": "56.950",
+        "long": "24.100",
         "tz_name": "Europe/Riga",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4154,
-        "long": 1229,
+        "lat": "41.900",
+        "long": "12.483",
         "tz_name": "Europe/Rome",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5312,
-        "long": 5009,
+        "lat": "53.200",
+        "long": "50.150",
         "tz_name": "Europe/Samara",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 4355,
-        "long": 1228,
+        "lat": "43.917",
+        "long": "12.467",
         "tz_name": "Europe/San_Marino",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4352,
-        "long": 1825,
+        "lat": "43.867",
+        "long": "18.417",
         "tz_name": "Europe/Sarajevo",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5134,
-        "long": 4602,
+        "lat": "51.567",
+        "long": "46.033",
         "tz_name": "Europe/Saratov",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 4457,
-        "long": 3406,
+        "lat": "44.950",
+        "long": "34.100",
         "tz_name": "Europe/Simferopol",
         "utc_offset": "+03:00"
     },
     {
-        "lat": 4159,
-        "long": 2126,
+        "lat": "41.983",
+        "long": "21.433",
         "tz_name": "Europe/Skopje",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4241,
-        "long": 2319,
+        "lat": "42.683",
+        "long": "23.317",
         "tz_name": "Europe/Sofia",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 5920,
-        "long": 1803,
+        "lat": "59.333",
+        "long": "18.050",
         "tz_name": "Europe/Stockholm",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5925,
-        "long": 2445,
+        "lat": "59.417",
+        "long": "24.750",
         "tz_name": "Europe/Tallinn",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4120,
-        "long": 1950,
+        "lat": "41.333",
+        "long": "19.833",
         "tz_name": "Europe/Tirane",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5420,
-        "long": 4824,
+        "lat": "54.333",
+        "long": "48.400",
         "tz_name": "Europe/Ulyanovsk",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 4837,
-        "long": 2218,
+        "lat": "48.617",
+        "long": "22.300",
         "tz_name": "Europe/Uzhgorod",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4709,
-        "long": 931,
+        "lat": "47.150",
+        "long": "9.517",
         "tz_name": "Europe/Vaduz",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 415408,
-        "long": 122711,
+        "lat": "41.902",
+        "long": "12.453",
         "tz_name": "Europe/Vatican",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4813,
-        "long": 1620,
+        "lat": "48.217",
+        "long": "16.333",
         "tz_name": "Europe/Vienna",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 5441,
-        "long": 2519,
+        "lat": "54.683",
+        "long": "25.317",
         "tz_name": "Europe/Vilnius",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4844,
-        "long": 4425,
+        "lat": "48.733",
+        "long": "44.417",
         "tz_name": "Europe/Volgograd",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 5215,
-        "long": 2100,
+        "lat": "52.250",
+        "long": "21.000",
         "tz_name": "Europe/Warsaw",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4548,
-        "long": 1558,
+        "lat": "45.800",
+        "long": "15.967",
         "tz_name": "Europe/Zagreb",
         "utc_offset": "+01:00"
     },
     {
-        "lat": 4750,
-        "long": 3510,
+        "lat": "47.833",
+        "long": "35.167",
         "tz_name": "Europe/Zaporozhye",
         "utc_offset": "+02:00"
     },
     {
-        "lat": 4723,
-        "long": 832,
+        "lat": "47.383",
+        "long": "8.533",
         "tz_name": "Europe/Zurich",
         "utc_offset": "+01:00"
     },
     {
-        "lat": -1855,
-        "long": 4731,
+        "lat": "-18.917",
+        "long": "47.517",
         "tz_name": "Indian/Antananarivo",
         "utc_offset": "+03:00"
     },
     {
-        "lat": -720,
-        "long": 7225,
+        "lat": "-7.333",
+        "long": "72.417",
         "tz_name": "Indian/Chagos",
         "utc_offset": "+06:00"
     },
     {
-        "lat": -1025,
-        "long": 10543,
+        "lat": "-10.417",
+        "long": "105.717",
         "tz_name": "Indian/Christmas",
         "utc_offset": "+07:00"
     },
     {
-        "lat": -1210,
-        "long": 9655,
+        "lat": "-12.167",
+        "long": "96.917",
         "tz_name": "Indian/Cocos",
         "utc_offset": "+06:30"
     },
     {
-        "lat": -1141,
-        "long": 4316,
+        "lat": "-11.683",
+        "long": "43.267",
         "tz_name": "Indian/Comoro",
         "utc_offset": "+03:00"
     },
     {
-        "lat": -492110,
-        "long": 701303,
+        "lat": "-49.353",
+        "long": "70.218",
         "tz_name": "Indian/Kerguelen",
         "utc_offset": "+05:00"
     },
     {
-        "lat": -440,
-        "long": 5528,
+        "lat": "-4.667",
+        "long": "55.467",
         "tz_name": "Indian/Mahe",
         "utc_offset": "+04:00"
     },
     {
-        "lat": 410,
-        "long": 7330,
+        "lat": "4.167",
+        "long": "73.500",
         "tz_name": "Indian/Maldives",
         "utc_offset": "+05:00"
     },
     {
-        "lat": -2010,
-        "long": 5730,
+        "lat": "-20.167",
+        "long": "57.500",
         "tz_name": "Indian/Mauritius",
         "utc_offset": "+04:00"
     },
     {
-        "lat": -1247,
-        "long": 4514,
+        "lat": "-12.783",
+        "long": "45.233",
         "tz_name": "Indian/Mayotte",
         "utc_offset": "+03:00"
     },
     {
-        "lat": -2052,
-        "long": 5528,
+        "lat": "-20.867",
+        "long": "55.467",
         "tz_name": "Indian/Reunion",
         "utc_offset": "+04:00"
     },
     {
-        "lat": -1350,
-        "long": -17144,
+        "lat": "-13.833",
+        "long": "-171.733",
         "tz_name": "Pacific/Apia",
         "utc_offset": "+13:00"
     },
     {
-        "lat": -3652,
-        "long": 17446,
+        "lat": "-36.867",
+        "long": "174.767",
         "tz_name": "Pacific/Auckland",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -613,
-        "long": 15534,
+        "lat": "-6.217",
+        "long": "155.567",
         "tz_name": "Pacific/Bougainville",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -4357,
-        "long": -17633,
+        "lat": "-43.950",
+        "long": "-176.550",
         "tz_name": "Pacific/Chatham",
         "utc_offset": "+12:45"
     },
     {
-        "lat": 725,
-        "long": 15147,
+        "lat": "7.417",
+        "long": "151.783",
         "tz_name": "Pacific/Chuuk",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -2709,
-        "long": -10926,
+        "lat": "-27.150",
+        "long": "-109.433",
         "tz_name": "Pacific/Easter",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": -1740,
-        "long": 16825,
+        "lat": "-17.667",
+        "long": "168.417",
         "tz_name": "Pacific/Efate",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -308,
-        "long": -17105,
+        "lat": "-3.133",
+        "long": "-171.083",
         "tz_name": "Pacific/Enderbury",
         "utc_offset": "+13:00"
     },
     {
-        "lat": -922,
-        "long": -17114,
+        "lat": "-9.367",
+        "long": "-171.233",
         "tz_name": "Pacific/Fakaofo",
         "utc_offset": "+13:00"
     },
     {
-        "lat": -1808,
-        "long": 17825,
+        "lat": "-18.133",
+        "long": "178.417",
         "tz_name": "Pacific/Fiji",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -831,
-        "long": 17913,
+        "lat": "-8.517",
+        "long": "179.217",
         "tz_name": "Pacific/Funafuti",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -54,
-        "long": -8936,
+        "lat": "-0.900",
+        "long": "-89.600",
         "tz_name": "Pacific/Galapagos",
-        "utc_offset": "\u221206:00"
+        "utc_offset": "-06:00"
     },
     {
-        "lat": -2308,
-        "long": -13457,
+        "lat": "-23.133",
+        "long": "-134.950",
         "tz_name": "Pacific/Gambier",
-        "utc_offset": "\u221209:00"
+        "utc_offset": "-09:00"
     },
     {
-        "lat": -932,
-        "long": 16012,
+        "lat": "-9.533",
+        "long": "160.200",
         "tz_name": "Pacific/Guadalcanal",
         "utc_offset": "+11:00"
     },
     {
-        "lat": 1328,
-        "long": 14445,
+        "lat": "13.467",
+        "long": "144.750",
         "tz_name": "Pacific/Guam",
         "utc_offset": "+10:00"
     },
     {
-        "lat": 211825,
-        "long": -1575130,
+        "lat": "21.307",
+        "long": "-157.858",
         "tz_name": "Pacific/Honolulu",
-        "utc_offset": "\u221210:00"
+        "utc_offset": "-10:00"
     },
     {
-        "lat": 152,
-        "long": -15720,
+        "lat": "1.867",
+        "long": "-157.333",
         "tz_name": "Pacific/Kiritimati",
         "utc_offset": "+14:00"
     },
     {
-        "lat": 519,
-        "long": 16259,
+        "lat": "5.317",
+        "long": "162.983",
         "tz_name": "Pacific/Kosrae",
         "utc_offset": "+11:00"
     },
     {
-        "lat": 905,
-        "long": 16720,
+        "lat": "9.083",
+        "long": "167.333",
         "tz_name": "Pacific/Kwajalein",
         "utc_offset": "+12:00"
     },
     {
-        "lat": 709,
-        "long": 17112,
+        "lat": "7.150",
+        "long": "171.200",
         "tz_name": "Pacific/Majuro",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -900,
-        "long": -13930,
+        "lat": "-9.000",
+        "long": "-139.500",
         "tz_name": "Pacific/Marquesas",
-        "utc_offset": "\u221209:30"
+        "utc_offset": "-09:30"
     },
     {
-        "lat": 2813,
-        "long": -17722,
+        "lat": "28.217",
+        "long": "-177.367",
         "tz_name": "Pacific/Midway",
-        "utc_offset": "\u221211:00"
+        "utc_offset": "-11:00"
     },
     {
-        "lat": -31,
-        "long": 16655,
+        "lat": "-0.517",
+        "long": "166.917",
         "tz_name": "Pacific/Nauru",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -1901,
-        "long": -16955,
+        "lat": "-19.017",
+        "long": "-169.917",
         "tz_name": "Pacific/Niue",
-        "utc_offset": "\u221211:00"
+        "utc_offset": "-11:00"
     },
     {
-        "lat": -2903,
-        "long": 16758,
+        "lat": "-29.050",
+        "long": "167.967",
         "tz_name": "Pacific/Norfolk",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -2216,
-        "long": 16627,
+        "lat": "-22.267",
+        "long": "166.450",
         "tz_name": "Pacific/Noumea",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -1416,
-        "long": -17042,
+        "lat": "-14.267",
+        "long": "-170.700",
         "tz_name": "Pacific/Pago_Pago",
-        "utc_offset": "\u221211:00"
+        "utc_offset": "-11:00"
     },
     {
-        "lat": 720,
-        "long": 13429,
+        "lat": "7.333",
+        "long": "134.483",
         "tz_name": "Pacific/Palau",
         "utc_offset": "+09:00"
     },
     {
-        "lat": -2504,
-        "long": -13005,
+        "lat": "-25.067",
+        "long": "-130.083",
         "tz_name": "Pacific/Pitcairn",
-        "utc_offset": "\u221208:00"
+        "utc_offset": "-08:00"
     },
     {
-        "lat": 658,
-        "long": 15813,
+        "lat": "6.967",
+        "long": "158.217",
         "tz_name": "Pacific/Pohnpei",
         "utc_offset": "+11:00"
     },
     {
-        "lat": -930,
-        "long": 14710,
+        "lat": "-9.500",
+        "long": "147.167",
         "tz_name": "Pacific/Port_Moresby",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -2114,
-        "long": -15946,
+        "lat": "-21.233",
+        "long": "-159.767",
         "tz_name": "Pacific/Rarotonga",
-        "utc_offset": "\u221210:00"
+        "utc_offset": "-10:00"
     },
     {
-        "lat": 1512,
-        "long": 14545,
+        "lat": "15.200",
+        "long": "145.750",
         "tz_name": "Pacific/Saipan",
         "utc_offset": "+10:00"
     },
     {
-        "lat": -1732,
-        "long": -14934,
+        "lat": "-17.533",
+        "long": "-149.567",
         "tz_name": "Pacific/Tahiti",
-        "utc_offset": "\u221210:00"
+        "utc_offset": "-10:00"
     },
     {
-        "lat": 125,
-        "long": 17300,
+        "lat": "1.417",
+        "long": "173.000",
         "tz_name": "Pacific/Tarawa",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -2110,
-        "long": -17510,
+        "lat": "-21.167",
+        "long": "-175.167",
         "tz_name": "Pacific/Tongatapu",
         "utc_offset": "+13:00"
     },
     {
-        "lat": 1917,
-        "long": 16637,
+        "lat": "19.283",
+        "long": "166.617",
         "tz_name": "Pacific/Wake",
         "utc_offset": "+12:00"
     },
     {
-        "lat": -1318,
-        "long": -17610,
+        "lat": "-13.300",
+        "long": "-176.167",
         "tz_name": "Pacific/Wallis",
         "utc_offset": "+12:00"
     }

@@ -43,29 +43,30 @@ const rounded = num => {
 };
 
 
-const MapChart = ({ setTooltipContent, markers }) => {
+const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
-      height={window.innerHeight/2}
+      height={window.innerHeight / 1}
       projectionConfig={{
         scale: 120,
         center: [0, -129]
       }}>
 
-      {/* <ZoomableGroup zoom={1}> */}
-      <Graticule stroke="#EAEAEC" />
-      <Geographies geography={topoJSON}>
-        {({ geographies }) =>
-          geographies.map(geo => {
-            let geoColor = "#D6D6D6"
-            const tzid = geo.properties["tzid"]
-            const timezoneInfo = getTimezone(tzid)
+      <ZoomableGroup zoom={1}>
+        <Graticule stroke="#EAEAEC" />
+        <Geographies geography={topoJSON}>
+          {({ geographies }) =>
+            geographies.map(geo => {
+              let geoColor = "#D6D6D6"
+              const tzid = geo.properties["tzid"]
+              const timezoneInfo = getTimezone(tzid)
 
-            if (timezoneInfo) {
-              let utcStr = timezoneInfo.utcOffsetStr;
-              if (timezoneColors[utcStr]) {
-                geoColor = timezoneColors[utcStr]
+              if (timezoneInfo) {
+                let utcStr = timezoneInfo.utcOffsetStr;
+                if (timezoneColors[utcStr]) {
+                  geoColor = timezoneColors[utcStr]
+                }
               }
             }
 
