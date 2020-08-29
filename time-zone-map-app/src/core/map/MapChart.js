@@ -54,7 +54,7 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
         center: [0, 0]
       }}>
 
-      {/*<ZoomableGroup zoom={1}>*/}
+      <ZoomableGroup zoom={1}>
         <Graticule stroke="#EAEAEC" />
         <Geographies geography={topoJSON}>
           {({ geographies }) =>
@@ -128,7 +128,7 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
           </text>
         </Marker>
       ))}
-      { /*</ZoomableGroup> */}
+      </ZoomableGroup>
     </ComposableMap>
   );
 };

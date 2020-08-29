@@ -1920,12 +1920,6 @@
         "utc_offset": "+01:00"
     },
     {
-        "lat": "44.833",
-        "long": "20.500",
-        "tz_name": "Europe/Sarajevo",
-        "utc_offset": "+01:00"
-    },
-    {
         "lat": "52.500",
         "long": "13.367",
         "tz_name": "Europe/Berlin",
