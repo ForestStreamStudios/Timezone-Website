@@ -6,5 +6,33 @@
     {
         "value": "modellers",
         "text": "Modellers"
+    },
+    {
+        "value": "story",
+        "text": "Story"
+    },
+    {
+        "value": "concept-art",
+        "text": "Concept Art"
+    },
+    {
+        "value": "animation",
+        "text": "Animation"
+    },
+    {
+        "value": "graphic-design",
+        "text": "Graphic Design"
+    },
+    {
+        "value": "audio-design",
+        "text": "Audio Design"
+    },
+    {
+        "value": "vfx-sim",
+        "text": "VFX + SIM"
+    },
+    {
+        "value": "testing",
+        "text": "Testing"
     }
 ]
