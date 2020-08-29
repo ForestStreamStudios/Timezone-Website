@@ -121,8 +121,8 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
           <circle r={1} fill="#F00" stroke="#fff" strokeWidth={0.3} />
           <text
             textAnchor="middle"
-            y={markerOffset * 0}
-            style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "3px" }}
+            y={2}
+            style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "2px" }}
           >
             {name}
           </text>
