@@ -51,7 +51,7 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
       height={window.innerHeight / 2}
       projectionConfig={{
         scale: 120,
-        center: [0, window.innerHeight / 2]
+        center: [0, 0]
       }}>
 
       {/*<ZoomableGroup zoom={1}>*/}
