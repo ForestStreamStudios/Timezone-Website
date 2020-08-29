@@ -33,6 +33,21 @@ const markers = [
 ];
 
 
+function parse_markers(mrkrs){
+
+   let marks = Object.entries(mrkrs);
+
+   let nMarkers = [];
+
+   for(let i = 0; i < marks.length; i++){
+     nMarkers.push({coordinates: [marks[i][1].long,marks[i][1].lat], name: marks[i][1].tz_name, markerOffset: marks[i][1].utc_offset});
+   }
+   console.log(nMarkers);
+   return nMarkers;
+}
+var newMarkers = parse_markers(tz_markers);
+
+
 function App() {
   const [content, setContent] = useState("");
   return (
@@ -41,7 +56,7 @@ function App() {
       <div className="map-shell">
         <div className="map-frame">
           <MapChart setTooltipContent={setContent}
-            markers={tz_markers}
+            markers={newMarkers}
             counts={tz_count}
           />
           <ReactTooltip>{content}</ReactTooltip>

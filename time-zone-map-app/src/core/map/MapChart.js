@@ -44,20 +44,22 @@ const rounded = num => {
 
 
 const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
+  
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
-      height={window.innerHeight / 1}
+      height={window.innerHeight / 2}
       projectionConfig={{
         scale: 120,
-        center: [0, -129]
+        center: [0, window.innerHeight / 2]
       }}>
 
-      <ZoomableGroup zoom={1}>
+      {/*<ZoomableGroup zoom={1}>*/}
         <Graticule stroke="#EAEAEC" />
         <Geographies geography={topoJSON}>
           {({ geographies }) =>
             geographies.map(geo => {
+//              console.log(geo);
               let geoColor = "#D6D6D6"
               const tzid = geo.properties["tzid"]
               const timezoneInfo = getTimezone(tzid)
@@ -68,49 +70,53 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
                   geoColor = timezoneColors[utcStr]
                 }
               }
-            }
+            
 
             let hoverColor = Color(geoColor).darken(0.2)
+ //             console.error(geo);
+                    return (
+                      <Geography
+                        key={geo.rsmKey}
+                        geography={geo}
+                        style={{
+                          default: {
+                            fill: geoColor,
+                            outline: "none"
+                          },
+                          hover: {
+                            fill: hoverColor,
+                            outline: "none"
+                          },
+                          pressed: {
+                            fill: "#000000",
+                            outline: "none"
+                          }
+                        }}
+                        onMouseEnter={(e) => {
+                          console.log(geo.properties)
+                          const tzid = geo.properties["tzid"]
+                          const timezoneInfo = getTimezone(tzid)
+                          if (timezoneInfo) {
+                            const { utcOffsetStr } = timezoneInfo;
+                            setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
+                          } else {
+                            setTooltipContent(`${tzid} - No GMT Data`);
 
-            return (
-              <Geography
-                key={geo.rsmKey}
-                geography={geo}
-                style={{
-                  default: {
-                    fill: geoColor,
-                    outline: "none"
-                  },
-                  hover: {
-                    fill: hoverColor,
-                    outline: "none"
-                  },
-                  pressed: {
-                    fill: "#000000",
-                    outline: "none"
-                  }
-                }}
-                onMouseEnter={(e) => {
-                  console.log(geo.properties)
-                  const tzid = geo.properties["tzid"]
-                  const timezoneInfo = getTimezone(tzid)
-                  if (timezoneInfo) {
-                    const { utcOffsetStr } = timezoneInfo;
-                    setTooltipContent(`${tzid}: GMT ${utcOffsetStr}`);
-                  } else {
-                    setTooltipContent(`${tzid} - No GMT Data`);
-
-                  }
-                }}
-                onMouseLeave={() => {
-                  setTooltipContent("");
-                }}
-              />
-            )
+                          }
+                        }}
+                        onMouseLeave={() => {
+                          setTooltipContent("");
+                        }}
+                      />
+                    )
           })
         }
       </Geographies>
-      {markers.map(({ name, coordinates, markerOffset }) => (
+      
+      {
+        
+      markers.map(({ name, coordinates, markerOffset }) => (
+        
         <Marker key={name} coordinates={coordinates}>
           <circle r={1} fill="#F00" stroke="#fff" strokeWidth={0.3} />
           <text
@@ -122,7 +128,7 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
           </text>
         </Marker>
       ))}
-      {/* </ZoomableGroup> */}
+      { /*</ZoomableGroup> */}
     </ComposableMap>
   );
 };
