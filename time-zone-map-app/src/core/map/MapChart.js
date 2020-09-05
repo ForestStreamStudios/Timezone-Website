@@ -42,9 +42,12 @@ const rounded = num => {
   }
 };
 
+let dotSize = 1;
 
 const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
   
+  console.log(markers);
+
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
@@ -112,13 +115,13 @@ const MapChart = ({ setTooltipContent, markers, counts, markerScale = 1 }) => {
           })
         }
       </Geographies>
-      
+
       {
-        
+
       markers.map(({ name, coordinates, markerOffset }) => (
         
         <Marker key={name} coordinates={coordinates}>
-          <circle r={1} fill="#F00" stroke="#fff" strokeWidth={0.3} />
+          <circle r={counts[markerOffset] / 5} fill="#F00" stroke="#fff" strokeWidth={0.3} />
           <text
             textAnchor="middle"
             y={2}
