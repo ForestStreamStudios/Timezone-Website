@@ -113,5 +113,13 @@
         "America/Detroit": 1, 
         "America/New_York": 1, 
         "Europe/London": 1
+    },
+    "Animation Team":
+    {
+        "Europe/Paris": 1,
+        "America/Detroit": 1,
+        "Pacific/Auckland": 1,
+        "Europe/Berlin": 1,
+        "Europe/Athens": 1
     }
 }

@@ -1,38 +1,42 @@
 [
     {
-        "value": "programmers",
-        "text": "Programmers"
+        "value": "Programmer Team",
+        "text": "Programmer Team"
     },
     {
-        "value": "modellers",
-        "text": "Modellers"
+        "value": "Modeling Team",
+        "text": "Modeling Team"
     },
     {
-        "value": "story",
-        "text": "Story"
+        "value": "Story Team",
+        "text": "Story Team"
     },
     {
-        "value": "concept-art",
-        "text": "Concept Art"
+        "value": "Concept Art Team",
+        "text": "Concept Art Team"
     },
     {
-        "value": "animation",
-        "text": "Animation"
+        "value": "Graphic Design Team",
+        "text": "Graphic Design Team"
     },
     {
-        "value": "graphic-design",
-        "text": "Graphic Design"
+        "value": "Audio Design Team",
+        "text": "Audio Design Team"
     },
     {
-        "value": "audio-design",
-        "text": "Audio Design"
+        "value": "VFX + Sim Team",
+        "text": "VFX + Sim Team"
     },
     {
-        "value": "vfx-sim",
-        "text": "VFX + SIM"
+        "value": "Animation Team",
+        "text": "Animation Team"
     },
     {
-        "value": "testing",
-        "text": "Testing"
+        "value": "Marketing and Social Media Team",
+        "text": "Marketing and Social Media Team"
+    },
+    {
+        "value": "Testing Team",
+        "text": "Testing Team"
     }
 ]

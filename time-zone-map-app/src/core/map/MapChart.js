@@ -44,7 +44,7 @@ const rounded = num => {
 
 let dotSize = 1;
 
-const MapChart = ({ setTooltipContent, markers, team_stuff, markerScale = 1 }) => {
+const MapChart = ({ setTooltipContent, markers, team_stuff, current_team, markerScale = 1 }) => {
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
@@ -115,9 +115,8 @@ const MapChart = ({ setTooltipContent, markers, team_stuff, markerScale = 1 }) =
       {
 
       markers.map(({ name, coordinates, markerOffset }) => (
-        
         <Marker key={name} coordinates={coordinates}>
-          <circle r={1} fill="#F00" stroke="#fff" strokeWidth={0.3} />
+          <circle r={ team_stuff[current_team][name] * 2 } fill="#F00" stroke="#fff" strokeWidth={0.3} />
           <text
             textAnchor="middle"
             y={2}
