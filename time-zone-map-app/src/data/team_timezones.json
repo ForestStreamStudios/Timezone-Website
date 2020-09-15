@@ -1,0 +1,125 @@
+{
+    "Programmer Team": 
+    {
+        "America/Los_Angeles": 5,
+        "America/New_York": 3,
+        "Europe/Paris": 1,
+        "America/Chicago": 1,
+        "Europe/Amsterdam": 1,
+        "Pacific/Auckland": 1,
+        "Europe/Helsinki": 1,
+        "Asia/Calcutta": 3,
+        "Asia/Kolkata": 1,
+        "Europe/Istanbul": 1,
+        "Asia/Beirut": 1,
+        "Europe/Berlin": 1,
+        "Asia/Taipei": 1
+    },
+    "Testing Team": 
+    {
+        "Europe/Warsaw": 2,
+        "Europe/Riga": 1, 
+        "Asia/Calcutta": 4, 
+        "Pacific/Auckland": 2, 
+        "Asia/Tashkent": 1, 
+        "Europe/Stockholm": 1, 
+        "Australia/Sydney": 1, 
+        "America/Santiago": 1, 
+        "Europe/Berlin": 1, 
+        "America/New_York": 1, 
+        "America/Chicago": 1, 
+        "Europe/Athens": 1
+    }, 
+    "Modeling Team": 
+    {
+        "Europe/Rome": 2, 
+        "Europe/Riga": 1, 
+        "Asia/Katmandu": 1, 
+        "Asia/Riyadh": 2, 
+        "America/New_York": 1, 
+        "Europe/Ljubljana": 1, 
+        "Europe/Amsterdam": 1, 
+        "Europe/Copenhagen": 2, 
+        "America/Los_Angeles": 1, 
+        "Europe/London ": 1, 
+        "Pacific/Auckland": 1, 
+        "Asia/Tashkent": 1, 
+        "Europe/Warsaw": 2, 
+        "Europe/Stockholm": 1, 
+        "Asia/Calcutta": 2, 
+        "Europe/Paris": 1, 
+        "Europe/Madrid": 1, 
+        "America/Detroit": 1, 
+        "Asia/ Calcutta": 1, 
+        "Europe/Berlin": 2, 
+        "Europe/Istanbul": 1
+    }, 
+    "Story Team": 
+    {
+        "Europe/London": 2,
+        "Europe/Berlin": 1, 
+        "Asia/Riyadh": 2, 
+        "America/Los Angeles": 3, 
+        "Europe/Vienna": 1, 
+        "America/Los_Angeles": 1, 
+        "Europe/Amsterdam": 1, 
+        "America / Phoenix": 1, 
+        "America/New_York": 2, 
+        "Australia/Sydney": 1, 
+        "Asia/Calcutta": 2, 
+        "America/Detroit": 1, 
+        "Asia/Taipei": 2, 
+        "Asia/Kolkata": 1
+        }, 
+    "Concept Art Team": 
+    {
+        "America/Chicago": 2, 
+        "Europe/Amsterdam": 3, 
+        "Europe/Rome": 1, 
+        "America/Phoenix": 1, 
+        "America / Phoenix": 1, 
+        "Europe/Paris": 1, 
+        "America/Detroit": 1
+    }, 
+    "Marketing and Social Media Team": 
+    {
+        "Europe/Belgrade ": 1, 
+        "Europe/Berlin": 1, 
+        "Europe/Rome": 1, 
+        "Australia/Sydney": 1, 
+        "America/New_York": 1, 
+        "Europe/London": 1
+    }, 
+    "Audio Design Team": 
+    {
+        "America/Chicago": 1, 
+        "Europe/London": 1, 
+        "Europe/Stockholm": 1, 
+        "Europe/Berlin": 1, 
+        "America/New_York": 1
+    }, 
+    "VFX + Sim Team": 
+    {
+        "America/Los_Angeles": 1,
+        "Pacific/Auckland": 2, 
+        "Asia/Kolkata": 1, 
+        "Europe/Berlin": 1
+    },
+    "Graphic Design Team": 
+    {
+        "Europe/Rome": 1, 
+        "Pacific/Auckland": 1, 
+        "Europe/Paris": 1, 
+        "America/Detroit": 1, 
+        "America/New_York": 1, 
+        "Europe/London": 1
+    },
+    "Animation Team":
+    {
+        "Europe/Paris": 1,
+        "America/Detroit": 1,
+        "Pacific/Auckland": 1,
+        "Europe/Berlin": 1,
+        "Europe/Athens": 1
+    }
+}

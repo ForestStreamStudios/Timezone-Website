@@ -8,9 +8,12 @@ import Sidebar from "./core/Sidebar"
 import dropdownOptions from "./data/dropdown_options.json"
 import tz_markers from "./data/locations.json"
 import tz_count from "./data/timezone_count.json"
+import team_zones from "./data/team_timezones.json"
 
+let currentTeam = "Programmer Team";
 function updateFilter(value) {
-  console.log("eeeeee", value)
+  currentTeam = value;
+  console.log(currentTeam);
 }
 
 const markers = [
@@ -57,7 +60,8 @@ function App() {
         <div className="map-frame">
           <MapChart setTooltipContent={setContent}
             markers={newMarkers}
-            counts={tz_count}
+            team_stuff={team_zones}
+            current_team={currentTeam}
           />
           <ReactTooltip>{content}</ReactTooltip>
         </div>
