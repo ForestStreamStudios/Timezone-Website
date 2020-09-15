@@ -45,10 +45,15 @@ const rounded = num => {
 let dotSize = 1;
 
 const MapChart = ({ setTooltipContent, markers, team_stuff, current_team, markerScale = 1 }) => {
+
+
+	
+
+
   return (
     <ComposableMap data-tip=""
       projection="geoEqualEarth"
-      height={window.innerHeight / 2}
+      className="mapSVG"
       projectionConfig={{
         scale: 120,
         center: [0, 0]
@@ -113,19 +118,24 @@ const MapChart = ({ setTooltipContent, markers, team_stuff, current_team, marker
       </Geographies>
 
       {
-
-      markers.map(({ name, coordinates, markerOffset }) => (
-        <Marker key={name} coordinates={coordinates}>
-          <circle r={ team_stuff[current_team][name] * 2 } fill="#F00" stroke="#fff" strokeWidth={0.3} />
-          <text
-            textAnchor="middle"
-            y={2}
-            style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "2px" }}
-          >
-            {name}
-          </text>
-        </Marker>
-      ))}
+      markers.map(({ name, coordinates, markerOffset }) => {
+	      if(typeof team_stuff[current_team][name] !== 'undefined'){
+		
+	      
+	return (      
+	      <Marker key={name} coordinates={coordinates}>
+        	  <circle r={ team_stuff[current_team][name] * 2 } fill="#F00" stroke="#fff" strokeWidth={0.3} />
+	          <text
+        	    textAnchor="middle"
+	            y={2}
+        	    style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "2px" }}>
+	            {name}	
+	          </text>
+        	</Marker>
+	)
+      		}
+      })
+      }
       </ZoomableGroup>
     </ComposableMap>
   );

@@ -22,6 +22,7 @@
   width: 100%;
   height: var(--header-height);
   line-height: var(--header-height);
+  font-size: 3.5vw;
 }
 
 select {
@@ -53,14 +54,22 @@ select {
 .map-frame {
   width: 100%;
   height: 100%;
+  flex-basis: 75%;
+  flex-grow: 10;
+  padding-top: var(--header-height);
 }
-
+.mapSVG {
+	width: 100%;
+	height: 100vh;
+}
 .sidebar {
-  width: 300px;
+  flex: auto;
   background: gray;
   height: 100vh;
   padding-top: var(--header-height);
   padding-left: 2vh;
+  max-width: 25%;
+  font-size: 3vw;
 }
 
 h3 {
