@@ -22,7 +22,7 @@
   width: 100%;
   height: var(--header-height);
   line-height: var(--header-height);
-  font-size: 3.5vw;
+  font-size: 2.25vw;
 }
 
 select {
@@ -68,8 +68,19 @@ select {
   height: 100vh;
   padding-top: var(--header-height);
   padding-left: 2vh;
-  max-width: 25%;
-  font-size: 3vw;
+  padding-right:5px;
+  max-width: 15%;
+  font-size: 2vh;
+}
+
+@media screen and (min-width: 1440px) {
+	.sidebar {
+		max-width: 10%;
+		font-size: 30px;
+	}
+	.header {
+		font-size: 30px;
+	}
 }
 
 h3 {
