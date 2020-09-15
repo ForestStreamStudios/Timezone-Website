@@ -14,7 +14,7 @@ import { getTimezone } from 'countries-and-timezones';
 import allStates from "../../data/allstates.json";
 import topoJSON from "../../data/out_2.json"
 // import topoJSON from "../../data/timezones-topo2.json"
-
+import dropoptions from "../../data/dropdown_options.json";
 import Color from "color"
 
 import timezoneColors from "../../data/timezone_colors.json"
@@ -118,13 +118,32 @@ const MapChart = ({ setTooltipContent, markers, team_stuff, current_team, marker
       </Geographies>
 
       {
+
       markers.map(({ name, coordinates, markerOffset }) => {
-	      if(typeof team_stuff[current_team][name] !== 'undefined'){
+
+
+
+		let count = 0;
+		if(current_team === "All"){
+			for(let i = 1; i < dropoptions.length; i++){
+
+				if(typeof team_stuff[dropoptions[i].text][name] !== 'undefined'){
+					count += team_stuff[dropoptions[i].text][name];
+				}
+			}
+		} else {
+			if(typeof team_stuff[current_team][name] !== 'undefined'){
+				count = team_stuff[current_team][name];
+			}
+		}
+
+
+	      
 		
 	      
 	return (      
 	      <Marker key={name} coordinates={coordinates}>
-        	  <circle r={ team_stuff[current_team][name] * 2 } fill="#F00" stroke="#fff" strokeWidth={0.3} />
+        	  <circle r={ count * 2 } fill="#F00" stroke="#fff" strokeWidth={0.3} />
 	          <text
         	    textAnchor="middle"
 	            y={2}
@@ -133,9 +152,18 @@ const MapChart = ({ setTooltipContent, markers, team_stuff, current_team, marker
 	          </text>
         	</Marker>
 	)
-      		}
-      })
-      }
+      		
+
+	      }
+
+
+
+      )
+	}
+	
+
+	      
+      
       </ZoomableGroup>
     </ComposableMap>
   );

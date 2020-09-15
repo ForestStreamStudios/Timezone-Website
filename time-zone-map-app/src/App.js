@@ -10,7 +10,7 @@ import tz_markers from "./data/locations.json"
 import tz_count from "./data/timezone_count.json"
 import team_zones from "./data/team_timezones.json"
 
-let currentTeam = "Programmer Team";
+let currentTeam = "All";
 function updateFilter(value) {
   currentTeam = value;
   console.log(currentTeam);
@@ -45,7 +45,7 @@ function parse_markers(mrkrs){
    for(let i = 0; i < marks.length; i++){
      nMarkers.push({coordinates: [marks[i][1].long,marks[i][1].lat], name: marks[i][1].tz_name, markerOffset: marks[i][1].utc_offset});
    }
-   console.log(nMarkers);
+
    return nMarkers;
 }
 var newMarkers = parse_markers(tz_markers);
